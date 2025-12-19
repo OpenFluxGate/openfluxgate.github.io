@@ -1,0 +1,45 @@
+{
+  "id": "recording",
+  "title": "Recording",
+  "description": "Control recordings in a meeting.",
+  "source": "@site/docs/android-core/recording.mdx",
+  "sourceDirName": ".",
+  "slug": "/recording",
+  "permalink": "/android-core/recording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/recording.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "inline": true,
+      "label": "recording",
+      "permalink": "/android-core/tags/recording"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Recording",
+    "description": "Control recordings in a meeting.",
+    "sidebar_position": 9,
+    "tags": [
+      "android-core",
+      "recording"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Other methods",
+    "permalink": "/android-core/plugins/extra"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/android-core/stage-management/introduction"
+  }
+}

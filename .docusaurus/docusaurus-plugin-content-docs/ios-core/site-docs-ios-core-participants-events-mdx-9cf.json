@@ -1,0 +1,51 @@
+{
+  "id": "participants/events",
+  "title": "Participant Events",
+  "description": "Dive into the details of handling participant events in your iOS application using Dyte's comprehensive documentation.",
+  "source": "@site/docs/ios-core/participants/events.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/events",
+  "permalink": "/ios-core/participants/events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/participants/events.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "participants",
+      "permalink": "/ios-core/tags/participants"
+    },
+    {
+      "inline": true,
+      "label": "self",
+      "permalink": "/ios-core/tags/self"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Participant Events",
+    "description": "Dive into the details of handling participant events in your iOS application using Dyte's comprehensive documentation.",
+    "sidebar_position": 3,
+    "tags": [
+      "ios-core",
+      "participants",
+      "self"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Object",
+    "permalink": "/ios-core/participants/participant-object"
+  },
+  "next": {
+    "title": "Waitlisted Participants",
+    "permalink": "/ios-core/participants/waitlisted-participants"
+  }
+}

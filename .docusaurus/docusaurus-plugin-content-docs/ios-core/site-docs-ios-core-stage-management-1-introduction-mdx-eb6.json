@@ -1,0 +1,45 @@
+{
+  "id": "stage-management/introduction",
+  "title": "Introduction",
+  "description": "Stage management in Dyte meetings.",
+  "source": "@site/docs/ios-core/stage-management/1-introduction.mdx",
+  "sourceDirName": "stage-management",
+  "slug": "/stage-management/introduction",
+  "permalink": "/ios-core/stage-management/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/stage-management/1-introduction.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "stage",
+      "permalink": "/ios-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Stage management in Dyte meetings.",
+    "sidebar_position": 1,
+    "tags": [
+      "ios-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recording",
+    "permalink": "/ios-core/recording"
+  },
+  "next": {
+    "title": "Stage Host Controls",
+    "permalink": "/ios-core/stage-management/host-controls"
+  }
+}

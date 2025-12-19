@@ -1,0 +1,30 @@
+{
+  "id": "chat/attachments-in-chat",
+  "title": "Attachments in Chat",
+  "description": "Learn how to use and customize the CustomChatViewController component in Dyte's iOS UiKit with send file and image documentation.",
+  "source": "@site/docs/ios/chat/attachments-in-chat.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/attachments-in-chat",
+  "permalink": "/ios/chat/attachments-in-chat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/chat/attachments-in-chat.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-chat.svg",
+    "sidebar_position": 3,
+    "description": "Learn how to use and customize the CustomChatViewController component in Dyte's iOS UiKit with send file and image documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat Components",
+    "permalink": "/ios/chat/components-in-chat"
+  },
+  "next": {
+    "title": "Pre-built Plugin screen",
+    "permalink": "/ios/Pre-Built-Plugins_Guides/Plugins"
+  }
+}

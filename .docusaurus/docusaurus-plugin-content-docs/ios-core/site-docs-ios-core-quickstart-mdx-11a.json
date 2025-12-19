@@ -1,0 +1,46 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "This quickstart shows how to use Dyte's core SDKs to add live video and audio to",
+  "source": "@site/docs/ios-core/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ios-core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/quickstart.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "quickstart",
+      "permalink": "/ios-core/tags/quickstart"
+    },
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/ios-core/tags/setup"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "tags": [
+      "ios-core",
+      "quickstart",
+      "setup"
+    ],
+    "slug": "/",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/upgrade-v2/introduction"
+  }
+}

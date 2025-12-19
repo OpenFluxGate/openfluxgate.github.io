@@ -1,0 +1,51 @@
+{
+  "id": "participants/events",
+  "title": "Participant Events",
+  "description": "Dive into the details of handling participant events in your Android application using Dyte's comprehensive documentation.",
+  "source": "@site/docs/android-core/participants/events.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/events",
+  "permalink": "/android-core/participants/events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/participants/events.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "inline": true,
+      "label": "participants",
+      "permalink": "/android-core/tags/participants"
+    },
+    {
+      "inline": true,
+      "label": "self",
+      "permalink": "/android-core/tags/self"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Participant Events",
+    "description": "Dive into the details of handling participant events in your Android application using Dyte's comprehensive documentation.",
+    "sidebar_position": 3,
+    "tags": [
+      "android-core",
+      "participants",
+      "self"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Object",
+    "permalink": "/android-core/participants/participant-object"
+  },
+  "next": {
+    "title": "Waitlisted Participants",
+    "permalink": "/android-core/participants/waitlisted-participants"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stage-management/viewer-participants",
+  "title": "Stage Access for Viewers",
+  "description": "Stage APIs for Viewers in Dyte meetings.",
+  "source": "@site/docs/flutter-core/stage-management/viewer-participants.mdx",
+  "sourceDirName": "stage-management",
+  "slug": "/stage-management/viewer-participants",
+  "permalink": "/flutter-core/stage-management/viewer-participants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/stage-management/viewer-participants.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "inline": true,
+      "label": "stage",
+      "permalink": "/flutter-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Stage Access for Viewers",
+    "description": "Stage APIs for Viewers in Dyte meetings.",
+    "sidebar_position": 3,
+    "tags": [
+      "flutter-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stage Host Controls",
+    "permalink": "/flutter-core/stage-management/host-controls"
+  },
+  "next": {
+    "title": "Recording",
+    "permalink": "/flutter-core/recording"
+  }
+}

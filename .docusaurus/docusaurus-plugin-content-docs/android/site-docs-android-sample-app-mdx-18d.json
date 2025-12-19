@@ -1,0 +1,29 @@
+{
+  "id": "sample-app",
+  "title": "Sample app",
+  "description": "Explore and learn from the Android sample app provided in Dyte's documentation.",
+  "source": "@site/docs/android/sample-app.mdx",
+  "sourceDirName": ".",
+  "slug": "/sample-app",
+  "permalink": "/android/sample-app",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/sample-app.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "description": "Explore and learn from the Android sample app provided in Dyte's documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteWebinarStageToggleButton",
+    "permalink": "/android/components/dyte-webinar-stage-toggle"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/android/release-notes"
+  }
+}

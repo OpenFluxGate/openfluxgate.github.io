@@ -1,0 +1,40 @@
+{
+  "id": "realtimekit-migration/sdk-guide",
+  "title": "SDK Migration Guide",
+  "description": "As Dyte joins Cloudflare, we are transitioning all Dyte SDKs to the new Cloudflare RealtimeKit SDKs.",
+  "source": "@site/docs/guides/realtimekit-migration/sdk-guide.mdx",
+  "sourceDirName": "realtimekit-migration",
+  "slug": "/realtimekit-migration/sdk-guide",
+  "permalink": "/guides/realtimekit-migration/sdk-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/realtimekit-migration/sdk-guide.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "migration",
+      "permalink": "/guides/tags/migration"
+    },
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/guides/tags/setup"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "SDK Migration Guide",
+    "sidebar_position": 1,
+    "tags": [
+      "migration",
+      "setup"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migrate from OpenTok to Dyte with Shim",
+    "permalink": "/guides/migration/opentok/opentok-shim-by-dyte"
+  }
+}

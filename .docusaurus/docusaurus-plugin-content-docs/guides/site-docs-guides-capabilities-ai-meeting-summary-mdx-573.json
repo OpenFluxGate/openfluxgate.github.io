@@ -1,0 +1,29 @@
+{
+  "id": "capabilities/ai/meeting-summary",
+  "title": "Meeting Summary",
+  "description": "Learn how to generate and utilize meeting summaries with Dyte's AI. This guide will help you understand and implement summarization features effectively.",
+  "source": "@site/docs/guides/capabilities/ai/meeting-summary.mdx",
+  "sourceDirName": "capabilities/ai",
+  "slug": "/capabilities/ai/meeting-summary",
+  "permalink": "/guides/capabilities/ai/meeting-summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/ai/meeting-summary.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Learn how to generate and utilize meeting summaries with Dyte's AI. This guide will help you understand and implement summarization features effectively."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting AI",
+    "permalink": "/guides/capabilities/ai/"
+  },
+  "next": {
+    "title": "Meeting Transcription",
+    "permalink": "/guides/capabilities/ai/meeting-transcription"
+  }
+}

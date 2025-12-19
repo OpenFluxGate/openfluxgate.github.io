@@ -1,0 +1,45 @@
+{
+  "id": "room-metadata",
+  "title": "Meeting Metadata",
+  "description": "All metadata pertaining to a meeting.",
+  "source": "@site/docs/react-web-core/room-metadata.mdx",
+  "sourceDirName": ".",
+  "slug": "/room-metadata",
+  "permalink": "/react-web-core/room-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/room-metadata.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "web-core",
+      "permalink": "/react-web-core/tags/web-core"
+    },
+    {
+      "inline": true,
+      "label": "room-metadata",
+      "permalink": "/react-web-core/tags/room-metadata"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Meeting Metadata",
+    "description": "All metadata pertaining to a meeting.",
+    "sidebar_position": 11,
+    "tags": [
+      "web-core",
+      "room-metadata"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Livestreaming",
+    "permalink": "/react-web-core/livestreaming"
+  },
+  "next": {
+    "title": "Debug System Error Codes",
+    "permalink": "/react-web-core/error-codes/error-code"
+  }
+}

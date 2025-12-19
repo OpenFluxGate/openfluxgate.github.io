@@ -1,0 +1,25 @@
+{
+  "id": "upgrade",
+  "title": "2.x Upgrade Guide",
+  "description": "Breaking changes",
+  "source": "@site/docs/react-web-core/upgrade.mdx",
+  "sourceDirName": ".",
+  "slug": "/upgrade",
+  "permalink": "/react-web-core/upgrade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/upgrade.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "2.x Upgrade Guide",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/react-web-core/"
+  }
+}

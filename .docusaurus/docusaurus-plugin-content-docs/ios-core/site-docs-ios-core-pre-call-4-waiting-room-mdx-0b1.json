@@ -1,0 +1,26 @@
+{
+  "id": "pre-call/waiting-room",
+  "title": "Waiting Room",
+  "description": "When you call meeting.joinRoom(), the user either enters the meeting room directly if allowed, or they are placed in the waiting room",
+  "source": "@site/docs/ios-core/pre-call/4-waiting-room.mdx",
+  "sourceDirName": "pre-call",
+  "slug": "/pre-call/waiting-room",
+  "permalink": "/ios-core/pre-call/waiting-room",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/pre-call/4-waiting-room.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting Metadata",
+    "permalink": "/ios-core/pre-call/meeting-meta"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/Introduction"
+  }
+}

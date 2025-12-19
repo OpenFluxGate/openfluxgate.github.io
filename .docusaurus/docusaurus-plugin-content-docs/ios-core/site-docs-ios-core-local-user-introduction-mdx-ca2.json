@@ -1,0 +1,51 @@
+{
+  "id": "local-user/introduction",
+  "title": "Introduction",
+  "description": "Learn about local user management in iOS Core with Dyte Docs. Understand the fundamentals for effective integration and app customization.",
+  "source": "@site/docs/ios-core/local-user/introduction.mdx",
+  "sourceDirName": "local-user",
+  "slug": "/local-user/introduction",
+  "permalink": "/ios-core/local-user/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/local-user/introduction.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "local-user",
+      "permalink": "/ios-core/tags/local-user"
+    },
+    {
+      "inline": true,
+      "label": "self",
+      "permalink": "/ios-core/tags/self"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Learn about local user management in iOS Core with Dyte Docs. Understand the fundamentals for effective integration and app customization.",
+    "sidebar_position": 3,
+    "tags": [
+      "ios-core",
+      "local-user",
+      "self"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/ios-core/local-user/events"
+  },
+  "next": {
+    "title": "Manage Media Devices",
+    "permalink": "/ios-core/local-user/manage-media-devices"
+  }
+}

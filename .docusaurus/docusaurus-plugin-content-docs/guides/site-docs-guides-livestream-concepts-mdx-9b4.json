@@ -1,0 +1,29 @@
+{
+  "id": "livestream/concepts",
+  "title": "Concepts",
+  "description": "This topic covers essential concepts related to Dyte's interactive live streaming (ILS). For the concepts related to live video applications, see Video Conferencing concepts.",
+  "source": "@site/docs/guides/livestream/concepts.mdx",
+  "sourceDirName": "livestream",
+  "slug": "/livestream/concepts",
+  "permalink": "/guides/livestream/concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/livestream/concepts.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Concepts",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/guides/livestream/livestream-overview"
+  },
+  "next": {
+    "title": "Setup",
+    "permalink": "/guides/livestream/get-started"
+  }
+}

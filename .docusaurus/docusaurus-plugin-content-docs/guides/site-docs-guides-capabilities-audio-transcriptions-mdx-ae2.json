@@ -1,0 +1,30 @@
+{
+  "id": "capabilities/audio/transcriptions",
+  "title": "Transcriptions",
+  "description": "Dyte's meeting transcription allows you to transcribe your Dyte meetings in real-time, making it easy to capture important discussions and refer back to them later.",
+  "source": "@site/docs/guides/capabilities/audio/transcriptions.mdx",
+  "sourceDirName": "capabilities/audio",
+  "slug": "/capabilities/audio/transcriptions",
+  "permalink": "/guides/capabilities/audio/transcriptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/audio/transcriptions.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Transcriptions",
+    "sidebar_position": 2,
+    "sidebar_slug": "transcriptions-inbuilt"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Processing - Middlewares",
+    "permalink": "/guides/capabilities/audio/processing"
+  },
+  "next": {
+    "title": "Transcriptions - AWS Transcribe",
+    "permalink": "/guides/capabilities/audio/transcriptionAWS"
+  }
+}

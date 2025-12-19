@@ -1,0 +1,26 @@
+{
+  "id": "pre-call/media-preview",
+  "title": "Media Preview",
+  "description": "Before joining a meeting, users may want to preview and configure their media devices like camera, microphone, and audio output.",
+  "source": "@site/docs/ios-core/pre-call/1-media-preview.mdx",
+  "sourceDirName": "pre-call",
+  "slug": "/pre-call/media-preview",
+  "permalink": "/ios-core/pre-call/media-preview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/pre-call/1-media-preview.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Breaking Changes and Migration Guide",
+    "permalink": "/ios-core/upgrade-v2/breaking-changes-migration"
+  },
+  "next": {
+    "title": "Handling Device Permissions",
+    "permalink": "/ios-core/pre-call/handling-permissions"
+  }
+}

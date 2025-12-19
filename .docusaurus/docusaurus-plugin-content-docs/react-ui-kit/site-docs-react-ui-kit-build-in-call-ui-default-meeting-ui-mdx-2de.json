@@ -1,0 +1,29 @@
+{
+  "id": "build-in-call-ui/default-meeting-ui",
+  "title": "DyteMeeting",
+  "description": "Dyte provides, DyteMeeting an all encompassing component that internally handles everything from showing a pre-call UI to in-call UI and post-call screen.",
+  "source": "@site/docs/react-ui-kit/build-in-call-ui/default-meeting-ui.mdx",
+  "sourceDirName": "build-in-call-ui",
+  "slug": "/build-in-call-ui/default-meeting-ui",
+  "permalink": "/react-ui-kit/build-in-call-ui/default-meeting-ui",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/build-in-call-ui/default-meeting-ui.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "DyteMeeting",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtual background & Blur",
+    "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware"
+  },
+  "next": {
+    "title": "Handling States and Configs",
+    "permalink": "/react-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs"
+  }
+}

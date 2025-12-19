@@ -1,0 +1,4541 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/api-672": {
+    "__comp": "__comp---site-src-pages-api-jsxd-8-e-615",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "config": "config---api-5-e-9-841"
+  },
+  "/api/v2-550": {
+    "__comp": "__comp---site-src-pages-api-v-2-jsx-89-a-82e",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "config": "config---api-5-e-9-841"
+  },
+  "/faq-5bb": {
+    "__comp": "__comp---site-src-pages-faq-jsx-24-c-525",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "config": "config---api-5-e-9-841"
+  },
+  "/getting-started-67e": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "content": "content---getting-started-697-b31"
+  },
+  "/release-notes-344": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "content": "content---release-notesc-2-a-c4f"
+  },
+  "/release-notes/rest-api-7c6": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "content": "content---release-notes-rest-apid-32-f5b"
+  },
+  "/search-5de": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-14-0ea"
+    }
+  },
+  "/android-core-e54": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---android-core-2-f-3-088"
+    }
+  },
+  "/android-core-f1a": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---android-core-1-f-7-9bf"
+  },
+  "/android-core/tags-08b": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---android-core-tags-2-cb-7b4"
+  },
+  "/android-core/tags/android-core-56d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-android-coref-63-0a7"
+  },
+  "/android-core/tags/chat-ddd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-chat-420-a8a"
+  },
+  "/android-core/tags/create-ccf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-createa-17-733"
+  },
+  "/android-core/tags/livestream-143": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-livestreamdc-4-f49"
+  },
+  "/android-core/tags/local-user-372": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-local-user-64-c-045"
+  },
+  "/android-core/tags/participants-5a3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-participantse-96-3d7"
+  },
+  "/android-core/tags/plugins-07a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-plugins-3-fd-b23"
+  },
+  "/android-core/tags/polls-7b1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-pollsc-73-337"
+  },
+  "/android-core/tags/quickstart-cc0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-quickstartdeb-6f5"
+  },
+  "/android-core/tags/recording-d58": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-recording-10-e-de7"
+  },
+  "/android-core/tags/releasenotes-092": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-releasenotes-794-2d8"
+  },
+  "/android-core/tags/room-metadata-75c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-room-metadata-969-38b"
+  },
+  "/android-core/tags/self-93f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-self-2-ab-538"
+  },
+  "/android-core/tags/self-events-977": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-self-events-8-e-7-ac2"
+  },
+  "/android-core/tags/setup-865": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-setup-127-b16"
+  },
+  "/android-core/tags/stage-f5c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-stage-574-81c"
+  },
+  "/android-core/tags/v-2-941": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-v-25-ab-be4"
+  },
+  "/android-core/tags/votes-b4a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-votes-70-f-0ff"
+  },
+  "/android-core/tags/waiting-room-1e0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-waiting-roombaf-74b"
+  },
+  "/android-core/tags/waitlisted-e5e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-core-tags-waitlisted-8-a-4-7db"
+  },
+  "/android-core-3b2": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/android-core-9de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-corea-60-a48"
+  },
+  "/android-core/chat/introduction-369": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-chat-introduction-14-d-d7f"
+  },
+  "/android-core/chat/receiving-chat-messages-10a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-chat-receiving-chat-messages-5-c-2-53f"
+  },
+  "/android-core/chat/sending-a-chat-message-f36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-chat-sending-a-chat-messagef-9-b-bce"
+  },
+  "/android-core/error-codes-8e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-error-codes-670-d34"
+  },
+  "/android-core/Introduction-e99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-introduction-49-a-f76"
+  },
+  "/android-core/livestream/dyte-livestream-listener-93d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-livestream-dyte-livestream-listener-797-a30"
+  },
+  "/android-core/livestream/dyte-livestream-object-35e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-livestream-dyte-livestream-objecte-02-3d0"
+  },
+  "/android-core/livestream/introduction-0d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-livestream-introduction-280-5c2"
+  },
+  "/android-core/local-user/events-26c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-local-user-events-388-add"
+  },
+  "/android-core/local-user/introduction-087": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-local-user-introduction-929-42c"
+  },
+  "/android-core/local-user/manage-media-devices-b2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-local-user-manage-media-devicescf-9-c80"
+  },
+  "/android-core/local-user/manage-permissions-285": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-local-user-manage-permissionsb-18-61c"
+  },
+  "/android-core/participants-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-participants-7-b-9-4c5"
+  },
+  "/android-core/participants/events-c1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-participants-eventsb-32-6f6"
+  },
+  "/android-core/participants/participant-object-9cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-participants-participant-objectca-6-f7b"
+  },
+  "/android-core/participants/waitlisted-participants-bc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-participants-waitlisted-participantscd-7-0ee"
+  },
+  "/android-core/plugins/enable-disable-plugin-e97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-plugins-enable-disable-plugina-93-c81"
+  },
+  "/android-core/plugins/extra-d98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-plugins-extra-392-84e"
+  },
+  "/android-core/plugins/introduction-7a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-plugins-introduction-271-3f5"
+  },
+  "/android-core/polls/creating-a-poll-03f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-polls-creating-a-poll-209-a47"
+  },
+  "/android-core/polls/introduction-ae9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-polls-introduction-9-f-3-31f"
+  },
+  "/android-core/polls/voting-on-a-poll-553": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-polls-voting-on-a-pollafe-3e0"
+  },
+  "/android-core/pre-call/handling-permissions-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-pre-call-handling-permissionsd-60-39b"
+  },
+  "/android-core/pre-call/media-preview-561": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-pre-call-media-previewac-9-6cd"
+  },
+  "/android-core/pre-call/meeting-meta-d49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-pre-call-meeting-meta-0-c-7-260"
+  },
+  "/android-core/pre-call/waiting-room-680": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-pre-call-waiting-roomd-20-100"
+  },
+  "/android-core/recording-ec4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-recording-2-d-8-039"
+  },
+  "/android-core/release-notes-a96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-release-notes-725-89e"
+  },
+  "/android-core/room-metadata-58c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-room-metadata-186-418"
+  },
+  "/android-core/stage-management/host-controls-f77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-stage-management-host-controls-164-fc8"
+  },
+  "/android-core/stage-management/introduction-dfb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-stage-management-introduction-727-d5b"
+  },
+  "/android-core/stage-management/viewer-participants-2bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-stage-management-viewer-participantsfc-9-b00"
+  },
+  "/android-core/upgrade-v2/breaking-changes-migration-437": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-upgrade-v-2-breaking-changes-migration-4-c-5-ce5"
+  },
+  "/android-core/upgrade-v2/introduction-f75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-core-upgrade-v-2-introduction-941-976"
+  },
+  "/android-776": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---android-508-2cb"
+    }
+  },
+  "/android-b72": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---android-1-f-0-560"
+  },
+  "/android/tags-5ef": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---android-tags-2-dd-c4f"
+  },
+  "/android/tags/android-ui-kit-955": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-tags-android-ui-kit-2-aa-2a0"
+  },
+  "/android/tags/plugins-227": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-tags-pluginsda-6-8c1"
+  },
+  "/android/tags/releasenotes-95e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---android-tags-releasenotes-69-c-7ed"
+  },
+  "/android-dd5": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/android-c2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-171-636"
+  },
+  "/android/advanced-usage-9d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-advanced-usage-5-a-8-a54"
+  },
+  "/android/build-pre-call-ui/build-your-own/add-audio-video-device-726": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-build-pre-call-ui-build-your-own-add-audio-video-device-42-b-541"
+  },
+  "/android/build-pre-call-ui/build-your-own/add-audio-video-preview-987": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-build-pre-call-ui-build-your-own-add-audio-video-preview-36-c-a89"
+  },
+  "/android/build-pre-call-ui/build-your-own/edit-user-name-269": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-build-pre-call-ui-build-your-own-edit-user-named-40-f1c"
+  },
+  "/android/build-pre-call-ui/build-your-own/initial-code-skeleton-1d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-build-pre-call-ui-build-your-own-initial-code-skeleton-11-b-379"
+  },
+  "/android/build-pre-call-ui/default-setup-screen-163": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-build-pre-call-ui-default-setup-screendc-9-3c4"
+  },
+  "/android/chat/prebuilt-screen-13f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-chat-prebuilt-screenaf-0-d8e"
+  },
+  "/android/components-bb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-019-572"
+  },
+  "/android/components/dyte-audio-selector-609": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-audio-selector-835-8ea"
+  },
+  "/android/components/dyte-audio-visualizer-a63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-audio-visualizer-68-e-da0"
+  },
+  "/android/components/dyte-avatar-503": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-avatar-8-bd-1c2"
+  },
+  "/android/components/dyte-button-198": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-button-423-36d"
+  },
+  "/android/components/dyte-camera-toggle-971": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-camera-togglece-6-4ee"
+  },
+  "/android/components/dyte-chat-9b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-chat-8-e-7-3cf"
+  },
+  "/android/components/dyte-clock-c23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-clock-274-98c"
+  },
+  "/android/components/dyte-controlbar-button-bd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-controlbar-button-582-0b7"
+  },
+  "/android/components/dyte-grid-6c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-grid-7-cf-51c"
+  },
+  "/android/components/dyte-grid-pagination-08f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-grid-pagination-0-d-4-f35"
+  },
+  "/android/components/dyte-idle-screen-790": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-idle-screene-74-1b3"
+  },
+  "/android/components/dyte-join-stage-3c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-join-stage-458-29c"
+  },
+  "/android/components/dyte-leave-button-09e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-leave-buttonafd-5d7"
+  },
+  "/android/components/dyte-leave-meeting-c8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-leave-meetingefe-229"
+  },
+  "/android/components/dyte-meeting-b00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-meeting-6-e-0-b61"
+  },
+  "/android/components/dyte-meeting-title-bb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-meeting-title-358-29a"
+  },
+  "/android/components/dyte-mic-toggle-ee5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-mic-toggleb-1-a-a49"
+  },
+  "/android/components/dyte-more-toggle-577": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-more-togglef-4-e-e13"
+  },
+  "/android/components/dyte-name-tag-fc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-name-tag-3-a-8-c44"
+  },
+  "/android/components/dyte-participant-count-bc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-participant-countebd-bdc"
+  },
+  "/android/components/dyte-participants-ed8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-participants-7-e-4-b3b"
+  },
+  "/android/components/dyte-plugins-07a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-pluginsd-10-a2a"
+  },
+  "/android/components/dyte-poll-form-f28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-poll-formd-62-f56"
+  },
+  "/android/components/dyte-polls-e04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-polls-5-c-2-0d1"
+  },
+  "/android/components/dyte-recording-indicator-9f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-recording-indicator-971-b14"
+  },
+  "/android/components/dyte-settings-ee4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-settings-8-d-2-3c9"
+  },
+  "/android/components/dyte-setup-screen-e82": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-setup-screen-266-459"
+  },
+  "/android/components/dyte-video-selector-9b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-video-selector-029-e60"
+  },
+  "/android/components/dyte-webinar-stage-toggle-bf0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-components-dyte-webinar-stage-toggle-2-b-3-230"
+  },
+  "/android/customize-meeting-ui-30b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-customize-meeting-ui-99-e-3ee"
+  },
+  "/android/participants/introduction-b79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-participants-introductionfae-694"
+  },
+  "/android/participants/prebuilt-3dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-participants-prebuiltf-23-91d"
+  },
+  "/android/plugins/introduction-3ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-plugins-introduction-9-b-8-646"
+  },
+  "/android/plugins/prebuilt-dfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-plugins-prebuiltba-6-cef"
+  },
+  "/android/polls/prebuilt-create-poll-09b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-polls-prebuilt-create-poll-28-e-912"
+  },
+  "/android/polls/prebuilt-polls-screen-d21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-polls-prebuilt-polls-screen-58-c-1be"
+  },
+  "/android/release-notes-a14": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-release-notes-0-cb-324"
+  },
+  "/android/render-participant-videos/custom-ui-9bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-render-participant-videos-custom-ui-6-a-8-1dd"
+  },
+  "/android/render-participant-videos/using-dytegrid-d52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-render-participant-videos-using-dytegrid-6-a-9-8ff"
+  },
+  "/android/sample-app-dea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---android-sample-app-18-d-bb7"
+  },
+  "/angular-ui-kit-c13": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---angular-ui-kit-522-126"
+    }
+  },
+  "/angular-ui-kit-2f4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---angular-ui-kitadb-cf3"
+  },
+  "/angular-ui-kit/tags-ba3": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---angular-ui-kit-tags-799-7b2"
+  },
+  "/angular-ui-kit/tags/releasenotes-8de": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---angular-ui-kit-tags-releasenotes-4-ae-4ae"
+  },
+  "/angular-ui-kit-dc4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/angular-ui-kit-425": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-848-db5"
+  },
+  "/angular-ui-kit/basics/components-basics-a2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-basics-components-basicsa-98-824"
+  },
+  "/angular-ui-kit/basics/pre-requisite-b45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-basics-pre-requisite-6-b-3-3b2"
+  },
+  "/angular-ui-kit/components-167": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-componentsf-69-946"
+  },
+  "/angular-ui-kit/components/dyte-audio-visualizer-683": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-audio-visualizer-914-5e8"
+  },
+  "/angular-ui-kit/components/dyte-avatar-cdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-avatard-04-0e4"
+  },
+  "/angular-ui-kit/components/dyte-button-dd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-button-4-eb-983"
+  },
+  "/angular-ui-kit/components/dyte-camera-toggle-868": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-camera-toggle-1-ab-a40"
+  },
+  "/angular-ui-kit/components/dyte-chat-d35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-chatf-54-136"
+  },
+  "/angular-ui-kit/components/dyte-chat-toggle-695": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-chat-toggledec-866"
+  },
+  "/angular-ui-kit/components/dyte-clock-626": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-clockd-67-fee"
+  },
+  "/angular-ui-kit/components/dyte-confirmation-modal-59d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-confirmation-modal-99-b-d4d"
+  },
+  "/angular-ui-kit/components/dyte-controlbar-8c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-controlbar-01-b-5e4"
+  },
+  "/angular-ui-kit/components/dyte-controlbar-button-51d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-controlbar-buttonb-4-a-f1b"
+  },
+  "/angular-ui-kit/components/dyte-dialog-f3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-dialogf-1-a-a46"
+  },
+  "/angular-ui-kit/components/dyte-dialog-manager-940": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-dialog-manager-048-372"
+  },
+  "/angular-ui-kit/components/dyte-emoji-picker-4a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-emoji-pickerc-0-a-774"
+  },
+  "/angular-ui-kit/components/dyte-ended-screen-30c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-ended-screend-99-4d0"
+  },
+  "/angular-ui-kit/components/dyte-file-message-785": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-file-messagec-5-b-403"
+  },
+  "/angular-ui-kit/components/dyte-fullscreen-toggle-699": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-fullscreen-toggle-973-9c0"
+  },
+  "/angular-ui-kit/components/dyte-grid-88b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-gridac-4-d2e"
+  },
+  "/angular-ui-kit/components/dyte-grid-pagination-b0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-grid-pagination-016-663"
+  },
+  "/angular-ui-kit/components/dyte-header-e2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-headere-8-b-da2"
+  },
+  "/angular-ui-kit/components/dyte-icon-f52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-icon-629-810"
+  },
+  "/angular-ui-kit/components/dyte-idle-screen-81b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-idle-screen-944-f2d"
+  },
+  "/angular-ui-kit/components/dyte-image-message-991": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-image-message-799-93c"
+  },
+  "/angular-ui-kit/components/dyte-image-viewer-052": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-image-viewer-16-e-309"
+  },
+  "/angular-ui-kit/components/dyte-leave-button-1d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-leave-button-10-c-ee9"
+  },
+  "/angular-ui-kit/components/dyte-leave-meeting-253": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-leave-meetingd-1-c-e63"
+  },
+  "/angular-ui-kit/components/dyte-logo-506": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-logo-7-a-2-627"
+  },
+  "/angular-ui-kit/components/dyte-meeting-ce1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-meetingbb-3-bc9"
+  },
+  "/angular-ui-kit/components/dyte-meeting-title-f30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-meeting-title-7-a-7-70b"
+  },
+  "/angular-ui-kit/components/dyte-menu-b7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-menu-552-ad8"
+  },
+  "/angular-ui-kit/components/dyte-menu-item-ab4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-menu-itemd-68-c65"
+  },
+  "/angular-ui-kit/components/dyte-menu-list-c07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-menu-listb-45-f84"
+  },
+  "/angular-ui-kit/components/dyte-mic-toggle-010": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-mic-togglea-1-b-4fa"
+  },
+  "/angular-ui-kit/components/dyte-mixed-grid-be8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-mixed-gridc-4-e-9df"
+  },
+  "/angular-ui-kit/components/dyte-more-toggle-749": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-more-toggle-522-fe9"
+  },
+  "/angular-ui-kit/components/dyte-name-tag-579": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-name-tag-24-c-646"
+  },
+  "/angular-ui-kit/components/dyte-network-indicator-b80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-network-indicatore-74-796"
+  },
+  "/angular-ui-kit/components/dyte-notification-181": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-notification-9-f-4-7c8"
+  },
+  "/angular-ui-kit/components/dyte-notifications-1d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-notificationsf-73-d49"
+  },
+  "/angular-ui-kit/components/dyte-overlay-modal-e44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-overlay-modal-29-f-b90"
+  },
+  "/angular-ui-kit/components/dyte-participant-910": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participantb-83-80a"
+  },
+  "/angular-ui-kit/components/dyte-participant-count-34c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participant-count-42-c-ac9"
+  },
+  "/angular-ui-kit/components/dyte-participant-tile-bcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participant-tilea-51-cd2"
+  },
+  "/angular-ui-kit/components/dyte-participants-ba5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participants-5-b-9-945"
+  },
+  "/angular-ui-kit/components/dyte-participants-audio-cbb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participants-audio-0-d-5-d0f"
+  },
+  "/angular-ui-kit/components/dyte-participants-stage-list-27e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participants-stage-list-8-d-0-e76"
+  },
+  "/angular-ui-kit/components/dyte-participants-toggle-c97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-participants-toggle-778-3b8"
+  },
+  "/angular-ui-kit/components/dyte-permissions-message-984": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-permissions-messageb-87-1c9"
+  },
+  "/angular-ui-kit/components/dyte-plugin-main-cd2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-plugin-mainad-8-258"
+  },
+  "/angular-ui-kit/components/dyte-plugins-ce3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-plugins-18-d-99b"
+  },
+  "/angular-ui-kit/components/dyte-plugins-toggle-954": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-plugins-toggle-204-662"
+  },
+  "/angular-ui-kit/components/dyte-poll-3b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-poll-018-112"
+  },
+  "/angular-ui-kit/components/dyte-poll-form-b54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-poll-formba-8-70e"
+  },
+  "/angular-ui-kit/components/dyte-polls-3d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-polls-128-bf9"
+  },
+  "/angular-ui-kit/components/dyte-polls-toggle-f7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-polls-toggle-4-c-6-168"
+  },
+  "/angular-ui-kit/components/dyte-recording-indicator-044": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-recording-indicatorb-97-563"
+  },
+  "/angular-ui-kit/components/dyte-recording-toggle-c78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-recording-toggle-1-a-8-164"
+  },
+  "/angular-ui-kit/components/dyte-remote-access-manager-595": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-remote-access-manager-2-a-0-241"
+  },
+  "/angular-ui-kit/components/dyte-screen-share-toggle-ae5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-screen-share-togglee-4-f-87b"
+  },
+  "/angular-ui-kit/components/dyte-screenshare-view-8a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-screenshare-view-54-d-c63"
+  },
+  "/angular-ui-kit/components/dyte-settings-efc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-settings-5-c-9-e99"
+  },
+  "/angular-ui-kit/components/dyte-settings-audio-ec4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-settings-audioe-7-b-0eb"
+  },
+  "/angular-ui-kit/components/dyte-settings-toggle-9fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-settings-toggle-4-eb-10d"
+  },
+  "/angular-ui-kit/components/dyte-settings-video-76b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-settings-video-3-dc-009"
+  },
+  "/angular-ui-kit/components/dyte-setup-screen-5ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-setup-screenc-3-b-5cf"
+  },
+  "/angular-ui-kit/components/dyte-sidebar-3e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-sidebarb-8-f-bd3"
+  },
+  "/angular-ui-kit/components/dyte-simple-grid-a78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-simple-grid-0-f-0-87a"
+  },
+  "/angular-ui-kit/components/dyte-spinner-a6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-spinnerd-9-e-fd4"
+  },
+  "/angular-ui-kit/components/dyte-spotlight-grid-829": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-spotlight-grid-980-ef6"
+  },
+  "/angular-ui-kit/components/dyte-stage-cab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-stage-935-ec8"
+  },
+  "/angular-ui-kit/components/dyte-switch-4b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-switchdde-9c2"
+  },
+  "/angular-ui-kit/components/dyte-text-field-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-text-field-40-b-bfb"
+  },
+  "/angular-ui-kit/components/dyte-text-message-1c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-text-message-6-a-0-47a"
+  },
+  "/angular-ui-kit/components/dyte-tooltip-1e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-tooltiped-4-653"
+  },
+  "/angular-ui-kit/components/dyte-viewer-count-deb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-components-dyte-viewer-count-991-e89"
+  },
+  "/angular-ui-kit/customizations/custom-iconpack-f07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-customizations-custom-iconpack-2-eb-4ee"
+  },
+  "/angular-ui-kit/customizations/custom-locale-ca3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-customizations-custom-locale-936-a00"
+  },
+  "/angular-ui-kit/design-system-04e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-design-system-8-a-5-50d"
+  },
+  "/angular-ui-kit/quickstart-0be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-quickstartc-8-a-7ed"
+  },
+  "/angular-ui-kit/reference-c45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-8-b-3-05c"
+  },
+  "/angular-ui-kit/reference/classes/DyteNotificationsAudio-a32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-classes-dyte-notifications-audio-748-6e5"
+  },
+  "/angular-ui-kit/reference/interfaces/Notification-ada": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-interfaces-notification-69-d-cea"
+  },
+  "/angular-ui-kit/reference/interfaces/PollObject-5cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-interfaces-poll-object-4-a-6-be8"
+  },
+  "/angular-ui-kit/reference/interfaces/States-0cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-interfaces-states-52-a-da4"
+  },
+  "/angular-ui-kit/reference/interfaces/UIConfig-c5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-interfaces-ui-configc-93-8be"
+  },
+  "/angular-ui-kit/reference/interfaces/UserPreferences-2fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-reference-interfaces-user-preferences-501-abc"
+  },
+  "/angular-ui-kit/release-notes-84d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---angular-ui-kit-release-notesfb-2-d6b"
+  },
+  "/cli-deb": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---cli-196-538"
+    }
+  },
+  "/cli-62d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---cli-588-929"
+  },
+  "/cli-596": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/cli-928": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---clifde-628"
+  },
+  "/cli/getting-started-dbf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-getting-started-912-3ff"
+  },
+  "/cli/meetings-b51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-meetings-8-cc-b59"
+  },
+  "/cli/plugins-cf3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-plugins-223-88f"
+  },
+  "/cli/recording-803": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-recording-742-c03"
+  },
+  "/cli/webhooks-0ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---cli-webhooks-939-aeb"
+  },
+  "/community-packages-d50": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---community-packages-483-d79"
+    }
+  },
+  "/community-packages-3c0": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---community-packages-2-b-6-f2f"
+  },
+  "/community-packages-fc1": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/community-packages-0c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packagescb-9-0d5"
+  },
+  "/community-packages/device-emulator-8eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packages-device-emulator-673-67a"
+  },
+  "/community-packages/device-emulator/examples-5e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packages-device-emulator-examples-06-e-164"
+  },
+  "/community-packages/socketio-client-8ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packages-socketio-client-598-130"
+  },
+  "/community-packages/socketio-client/emitting-2de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packages-socketio-client-emitting-0-c-6-e61"
+  },
+  "/community-packages/socketio-client/initialization-ce2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-packages-socketio-client-initialization-43-b-c72"
+  },
+  "/flutter-core-ebc": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---flutter-core-069-611"
+    }
+  },
+  "/flutter-core-ef4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---flutter-core-21-f-7ea"
+  },
+  "/flutter-core/tags-505": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---flutter-core-tagsb-66-4e8"
+  },
+  "/flutter-core/tags/chat-d38": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-chatde-0-c14"
+  },
+  "/flutter-core/tags/create-77f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-create-287-a7f"
+  },
+  "/flutter-core/tags/flutter-core-47b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-flutter-core-924-afe"
+  },
+  "/flutter-core/tags/host-actions-629": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-host-actions-251-f5e"
+  },
+  "/flutter-core/tags/livestream-7c3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-livestreame-57-eb5"
+  },
+  "/flutter-core/tags/local-user-4b3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-local-user-9-b-9-3a4"
+  },
+  "/flutter-core/tags/mobile-core-139": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-mobile-coreb-2-f-45a"
+  },
+  "/flutter-core/tags/participant-74f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-participant-3-aa-ba9"
+  },
+  "/flutter-core/tags/participants-77f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-participants-745-24b"
+  },
+  "/flutter-core/tags/permissions-847": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-permissionsed-7-9b4"
+  },
+  "/flutter-core/tags/polls-268": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-pollsaf-9-145"
+  },
+  "/flutter-core/tags/quickstart-85f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-quickstart-8-e-0-400"
+  },
+  "/flutter-core/tags/recording-e98": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-recordingd-30-a6f"
+  },
+  "/flutter-core/tags/releasenotes-87c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-releasenoteseb-5-f7c"
+  },
+  "/flutter-core/tags/room-metadata-40e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-room-metadata-24-a-00b"
+  },
+  "/flutter-core/tags/self-ab1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-self-61-c-fe8"
+  },
+  "/flutter-core/tags/self-events-61d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-self-events-78-f-ad4"
+  },
+  "/flutter-core/tags/stage-7aa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-stagee-90-e33"
+  },
+  "/flutter-core/tags/votes-94c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-votes-533-ed3"
+  },
+  "/flutter-core/tags/waiting-room-bda": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-waiting-room-178-5d4"
+  },
+  "/flutter-core/tags/waitlisted-8c5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-core-tags-waitlisted-630-a6e"
+  },
+  "/flutter-core-338": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/flutter-core-159": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-coref-05-798"
+  },
+  "/flutter-core/chat/introduction-a60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-chat-introductionb-7-d-658"
+  },
+  "/flutter-core/chat/receiving-chat-messages-c56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-chat-receiving-chat-messages-7-ef-8f0"
+  },
+  "/flutter-core/chat/sending-a-chat-message-27e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-chat-sending-a-chat-message-1-ea-877"
+  },
+  "/flutter-core/host-actions-87c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-host-actions-06-d-d5e"
+  },
+  "/flutter-core/introduction-6be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-introductiona-64-6b7"
+  },
+  "/flutter-core/livestream-996": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-livestream-1-bc-cc2"
+  },
+  "/flutter-core/local-user/events-8eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-local-user-events-0-d-5-91b"
+  },
+  "/flutter-core/local-user/introduction-0b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-local-user-introduction-160-543"
+  },
+  "/flutter-core/local-user/manage-media-devices-645": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-local-user-manage-media-devices-47-c-681"
+  },
+  "/flutter-core/local-user/manage-permissions-8e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-local-user-manage-permissions-79-a-7f3"
+  },
+  "/flutter-core/local-user/screen-share-iOS-guide-0c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-local-user-screen-share-i-os-guide-84-f-159"
+  },
+  "/flutter-core/participants-0e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-participants-414-f5e"
+  },
+  "/flutter-core/participants/events-ddd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-participants-eventse-7-a-f7e"
+  },
+  "/flutter-core/participants/introduction-3c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-participants-introduction-549-c4a"
+  },
+  "/flutter-core/participants/participant-object-671": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-participants-participant-object-335-d6b"
+  },
+  "/flutter-core/participants/waitlisted-participants-5da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-participants-waitlisted-participants-154-34b"
+  },
+  "/flutter-core/polls/creating-a-poll-7a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-polls-creating-a-poll-902-2e3"
+  },
+  "/flutter-core/polls/introduction-ad9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-polls-introductiondf-5-f5e"
+  },
+  "/flutter-core/polls/voting-on-a-poll-483": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-polls-voting-on-a-poll-836-42c"
+  },
+  "/flutter-core/pre-call/media-preview-153": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-pre-call-media-preview-461-4bb"
+  },
+  "/flutter-core/pre-call/meeting-meta-ec1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-pre-call-meeting-metaa-01-576"
+  },
+  "/flutter-core/pre-call/waiting-room-166": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-pre-call-waiting-room-0-ae-7e5"
+  },
+  "/flutter-core/recording-ddc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-recordingbe-1-475"
+  },
+  "/flutter-core/release-notes-d38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-release-notes-033-686"
+  },
+  "/flutter-core/room-metadata-563": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-room-metadata-602-14b"
+  },
+  "/flutter-core/stage-management/host-controls-c97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-stage-management-host-controls-4-f-0-620"
+  },
+  "/flutter-core/stage-management/introduction-ddf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-stage-management-introduction-9-a-9-8f8"
+  },
+  "/flutter-core/stage-management/viewer-participants-846": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-core-stage-management-viewer-participants-222-203"
+  },
+  "/flutter-92d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---flutterb-94-ba8"
+    }
+  },
+  "/flutter-d3e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---flutter-83-b-32e"
+  },
+  "/flutter/tags-b30": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---flutter-tags-865-844"
+  },
+  "/flutter/tags/design-system-16d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-tags-design-system-68-f-ddf"
+  },
+  "/flutter/tags/flutter-ui-kit-9b5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-tags-flutter-ui-kitec-2-841"
+  },
+  "/flutter/tags/releasenotes-e39": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---flutter-tags-releasenotesc-97-8bd"
+  },
+  "/flutter-ccc": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/flutter-acf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutterbfd-11a"
+  },
+  "/flutter/Components/dyte-audio-indicator-icon-widget-919": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-audio-indicator-icon-widget-83-d-981"
+  },
+  "/flutter/Components/dyte-chat-icon-widget-0b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-chat-icon-widget-4-ab-e1c"
+  },
+  "/flutter/Components/dyte-join-button-57d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-join-buttonc-66-7a2"
+  },
+  "/flutter/Components/dyte-leave-button-c40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-leave-button-20-f-344"
+  },
+  "/flutter/Components/dyte-leave-meeting-dialog-5e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-leave-meeting-dialog-9-df-521"
+  },
+  "/flutter/Components/dyte-meeting-title-ec1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-meeting-title-4-a-8-91f"
+  },
+  "/flutter/Components/dyte-name-tag-widget-e88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-name-tag-widgetc-48-ab3"
+  },
+  "/flutter/Components/dyte-participant-tile-f3d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-participant-tilef-01-cda"
+  },
+  "/flutter/Components/dyte-participants-icon-widget-ba1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-participants-icon-widget-51-b-634"
+  },
+  "/flutter/Components/dyte-plugins-screen-aa3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-plugins-screene-73-3df"
+  },
+  "/flutter/Components/dyte-polls-screen-6a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-polls-screenbba-ba7"
+  },
+  "/flutter/Components/dyte-provider-5d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-providera-3-b-fef"
+  },
+  "/flutter/Components/dyte-self-audio-toggle-3df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-self-audio-togglef-93-ad1"
+  },
+  "/flutter/Components/dyte-self-video-toggle-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-self-video-togglec-94-891"
+  },
+  "/flutter/Components/dyte-setup-screen-component-68b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-components-dyte-setup-screen-component-4-e-5-be0"
+  },
+  "/flutter/design-token-660": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-design-token-6-ce-d28"
+  },
+  "/flutter/meeting-locale-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-meeting-localec-7-e-f9c"
+  },
+  "/flutter/quickstart-95f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-quickstart-35-c-535"
+  },
+  "/flutter/release-notes-3b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---flutter-release-notes-0-a-0-c93"
+  },
+  "/guides-78d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---guides-34-a-38c"
+    }
+  },
+  "/guides-652": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---guides-3-db-727"
+  },
+  "/guides/tags-98e": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---guides-tagse-0-d-e32"
+  },
+  "/guides/tags/migration-423": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-migration-90-e-734"
+  },
+  "/guides/tags/setup-91e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-setupa-2-f-860"
+  },
+  "/guides-5a0": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/guides-4f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-3-d-4-274"
+  },
+  "/guides/capabilities/ai-aa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-aia-89-5f3"
+  },
+  "/guides/capabilities/ai/meeting-summary-86f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-ai-meeting-summary-573-609"
+  },
+  "/guides/capabilities/ai/meeting-transcription-d40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-ai-meeting-transcription-5-c-8-c37"
+  },
+  "/guides/capabilities/audio/processing-67a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-audio-processing-968-25f"
+  },
+  "/guides/capabilities/audio/transcriptionAWS-4d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-audio-transcription-aws-2-cd-85b"
+  },
+  "/guides/capabilities/audio/transcriptionGoogle-e6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-audio-transcription-google-85-a-f3a"
+  },
+  "/guides/capabilities/audio/transcriptions-f95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-audio-transcriptionsae-2-4e7"
+  },
+  "/guides/capabilities/breakoutroom/create-breakout-rooms-a9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-breakoutroom-create-breakout-rooms-71-e-bb7"
+  },
+  "/guides/capabilities/breakoutroom/integrating-breakout-rooms-c40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-breakoutroom-integrating-breakout-rooms-71-b-3cd"
+  },
+  "/guides/capabilities/breakoutroom/introduction-breakout-rooms-995": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-breakoutroom-introduction-breakout-rooms-906-451"
+  },
+  "/guides/capabilities/chat/export-chat-dump-251": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-chat-export-chat-dump-430-1f1"
+  },
+  "/guides/capabilities/misc/embed-152": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-misc-embedc-59-294"
+  },
+  "/guides/capabilities/misc/livestreaming-other-platforms-1ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-misc-livestreaming-other-platformsa-91-77f"
+  },
+  "/guides/capabilities/plugins-2ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-plugins-96-f-464"
+  },
+  "/guides/capabilities/plugins/docshare-a71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-plugins-docshare-8-f-7-232"
+  },
+  "/guides/capabilities/plugins/rendering-a4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-plugins-renderinge-75-e57"
+  },
+  "/guides/capabilities/plugins/streamer-d98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-plugins-streamercef-2b2"
+  },
+  "/guides/capabilities/plugins/whiteboard-241": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-plugins-whiteboard-1-e-6-02d"
+  },
+  "/guides/capabilities/polls-f46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-pollse-97-38f"
+  },
+  "/guides/capabilities/polls/getting_started-442": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-polls-getting-started-7-c-9-d80"
+  },
+  "/guides/capabilities/polls/uikit-b2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-polls-uikit-3-b-0-2c0"
+  },
+  "/guides/capabilities/recording-3d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-527-9a3"
+  },
+  "/guides/capabilities/recording/add-watermark-459": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-add-watermark-50-a-8c4"
+  },
+  "/guides/capabilities/recording/configure-audio-codec-b1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-configure-audio-codec-5-b-5-1e9"
+  },
+  "/guides/capabilities/recording/configure-codecs-81d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-configure-codecs-844-665"
+  },
+  "/guides/capabilities/recording/configure-dyte-bucket-config-7da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-configure-dyte-bucket-config-982-0d7"
+  },
+  "/guides/capabilities/recording/create-record-app-using-sdks-085": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-create-record-app-using-sdks-0-ae-0b7"
+  },
+  "/guides/capabilities/recording/custom-cloud-storage-75e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-custom-cloud-storage-392-853"
+  },
+  "/guides/capabilities/recording/interactive-recording-d26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-interactive-recording-616-025"
+  },
+  "/guides/capabilities/recording/manage-recording-config-hierarchy-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-manage-recording-config-hierarchy-3-bf-e73"
+  },
+  "/guides/capabilities/recording/monitor-status-a08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-monitor-statusd-3-b-aaf"
+  },
+  "/guides/capabilities/recording/recording-overview-724": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-recording-overviewf-32-c1b"
+  },
+  "/guides/capabilities/recording/start-recording-823": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-start-recording-00-d-d8d"
+  },
+  "/guides/capabilities/recording/stop-recording-287": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-recording-stop-recording-175-9ae"
+  },
+  "/guides/capabilities/screensharing/basics-52e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-screensharing-basics-6-ff-64f"
+  },
+  "/guides/capabilities/screensharing/displaying-c40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-screensharing-displaying-5-c-5-1f1"
+  },
+  "/guides/capabilities/sip-d12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-sip-8-f-1-a2a"
+  },
+  "/guides/capabilities/video/add-virtual-background-4db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-video-add-virtual-background-5-df-6ea"
+  },
+  "/guides/capabilities/video/picture-in-picture-fb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-video-picture-in-picture-2-a-5-82a"
+  },
+  "/guides/capabilities/video/processing-ba5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-video-processing-158-6a1"
+  },
+  "/guides/capabilities/webhooks-c03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webhookscd-7-3a4"
+  },
+  "/guides/capabilities/webhooks/signatures-774": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webhooks-signaturescf-5-61d"
+  },
+  "/guides/capabilities/webhooks/webhook-events-2b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webhooks-webhook-eventsde-2-8fb"
+  },
+  "/guides/capabilities/webhooks/webhooks-and-events-a14": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webhooks-webhooks-and-eventscd-3-9dc"
+  },
+  "/guides/capabilities/webhooks/webhooks-overview-340": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webhooks-webhooks-overview-09-f-503"
+  },
+  "/guides/capabilities/webinar/intro-webinar-e85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-capabilities-webinar-intro-webinarbae-8f7"
+  },
+  "/guides/interactive-onboarding/add-participant-bd1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-interactive-onboarding-add-participantff-2-3e8"
+  },
+  "/guides/interactive-onboarding/create-meeting-f6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-interactive-onboarding-create-meeting-395-eea"
+  },
+  "/guides/interactive-onboarding/init-sdk-be1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-interactive-onboarding-init-sdkf-92-10a"
+  },
+  "/guides/interactive-onboarding/join-meeting-4e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-interactive-onboarding-join-meetinga-48-742"
+  },
+  "/guides/live-video/build-live-video-app-d64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-build-live-video-app-791-735"
+  },
+  "/guides/live-video/client-setup-665": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-137-37c"
+  },
+  "/guides/live-video/client-setup/android-12c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-androida-9-e-b0e"
+  },
+  "/guides/live-video/client-setup/angular-fb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-angular-782-60b"
+  },
+  "/guides/live-video/client-setup/flutter-40b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-flutter-189-d2b"
+  },
+  "/guides/live-video/client-setup/ios-7e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-ios-682-7ee"
+  },
+  "/guides/live-video/client-setup/javascript-0df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-javascriptc-14-cb0"
+  },
+  "/guides/live-video/client-setup/react-072": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-client-setup-reactece-046"
+  },
+  "/guides/live-video/concepts-d4d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-concepts-9-e-6-be8"
+  },
+  "/guides/live-video/get-started-d61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-get-startedc-08-525"
+  },
+  "/guides/live-video/intro-video-conf-2c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-intro-video-conf-9-e-3-ed6"
+  },
+  "/guides/live-video/next-steps-809": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-live-video-next-steps-951-597"
+  },
+  "/guides/livestream/advanced/configuring-permissions-4ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-advanced-configuring-permissionsf-59-38b"
+  },
+  "/guides/livestream/advanced/livestream-any-rtmp-983": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-advanced-livestream-any-rtmp-018-514"
+  },
+  "/guides/livestream/build-livestream-app-03e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-build-livestream-app-85-b-13f"
+  },
+  "/guides/livestream/client-setup-9b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-0-f-1-a00"
+  },
+  "/guides/livestream/client-setup/android-e6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-android-726-b1a"
+  },
+  "/guides/livestream/client-setup/angular-a73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-angular-5-c-7-8f0"
+  },
+  "/guides/livestream/client-setup/flutter-1fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-flutter-519-8f0"
+  },
+  "/guides/livestream/client-setup/ios-d49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-iosa-24-928"
+  },
+  "/guides/livestream/client-setup/javascript-041": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-javascriptd-61-2a3"
+  },
+  "/guides/livestream/client-setup/react-3b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-client-setup-react-36-f-6e6"
+  },
+  "/guides/livestream/concepts-b74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-concepts-9-b-4-0d5"
+  },
+  "/guides/livestream/get-started-3ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-get-started-125-413"
+  },
+  "/guides/livestream/livestream-overview-50d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-livestream-livestream-overview-0-ae-73d"
+  },
+  "/guides/migration/opentok/concept-media-opentok-5e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-opentok-concept-media-opentok-710-62e"
+  },
+  "/guides/migration/opentok/concepts-opentok-vs-dyte-6b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-opentok-concepts-opentok-vs-dyte-21-a-999"
+  },
+  "/guides/migration/opentok/opentok-shim-by-dyte-ff2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-opentok-opentok-shim-by-dyte-5-cd-f46"
+  },
+  "/guides/migration/twilio/basics-9e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-basics-1-c-7-836"
+  },
+  "/guides/migration/twilio/compatibility-shim-twilio-d64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-compatibility-shim-twilio-077-a52"
+  },
+  "/guides/migration/twilio/concepts-twilio-vs-dyte-cbe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-concepts-twilio-vs-dyteae-0-d31"
+  },
+  "/guides/migration/twilio/feature-comparison-3c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-feature-comparison-964-f69"
+  },
+  "/guides/migration/twilio/media-8c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-mediab-29-c37"
+  },
+  "/guides/migration/twilio/misc-b59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-misc-993-15f"
+  },
+  "/guides/migration/twilio/twilio-shim-by-dyte-bee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-migration-twilio-twilio-shim-by-dyte-995-9a0"
+  },
+  "/guides/realtimekit-migration/sdk-guide-28c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-realtimekit-migration-sdk-guide-03-b-62b"
+  },
+  "/guides/rest-apis/livestream-dyte-meeting-058": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-rest-apis-livestream-dyte-meeting-3-ff-431"
+  },
+  "/guides/rest-apis/quickstart-a62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-rest-apis-quickstart-7-f-2-d51"
+  },
+  "/guides/v2-migration-guide-95f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-v-2-migration-guided-49-fb0"
+  },
+  "/guides/voice-conf/build-voice-app-760": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-build-voice-appcde-c9f"
+  },
+  "/guides/voice-conf/client-setup-2aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setupc-06-bd9"
+  },
+  "/guides/voice-conf/client-setup/android-e13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-android-492-0d4"
+  },
+  "/guides/voice-conf/client-setup/angular-013": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-angular-9-c-2-bd3"
+  },
+  "/guides/voice-conf/client-setup/flutter-c7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-flutter-14-d-f7a"
+  },
+  "/guides/voice-conf/client-setup/ios-695": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-iosbae-53c"
+  },
+  "/guides/voice-conf/client-setup/javascript-23f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-javascript-9-ba-f68"
+  },
+  "/guides/voice-conf/client-setup/react-238": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-client-setup-reactfb-8-f89"
+  },
+  "/guides/voice-conf/concepts-c2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-concepts-8-ee-22f"
+  },
+  "/guides/voice-conf/get-started-bf8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-get-started-71-f-820"
+  },
+  "/guides/voice-conf/intro-voice-conf-f4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-intro-voice-conf-123-8e1"
+  },
+  "/guides/voice-conf/next-steps-343": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-voice-conf-next-stepsfec-095"
+  },
+  "/ios-core-258": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ios-coree-0-b-7ca"
+    }
+  },
+  "/ios-core-68b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ios-core-2-a-4-1d6"
+  },
+  "/ios-core/tags-875": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---ios-core-tagsd-69-bc6"
+  },
+  "/ios-core/tags/chat-3f1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-chatd-86-618"
+  },
+  "/ios-core/tags/create-897": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-createc-81-090"
+  },
+  "/ios-core/tags/i-os-core-06e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-i-os-core-48-e-109"
+  },
+  "/ios-core/tags/ios-core-0b1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-ios-core-285-106"
+  },
+  "/ios-core/tags/local-user-6c5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-local-userb-58-31a"
+  },
+  "/ios-core/tags/local-user-events-d22": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-local-user-events-561-b02"
+  },
+  "/ios-core/tags/participants-0ec": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-participants-85-e-2e4"
+  },
+  "/ios-core/tags/plugins-7b6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-pluginsf-94-67e"
+  },
+  "/ios-core/tags/polls-efa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-pollscfe-399"
+  },
+  "/ios-core/tags/quickstart-2da": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-quickstart-162-02e"
+  },
+  "/ios-core/tags/recording-810": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-recording-3-db-cce"
+  },
+  "/ios-core/tags/releasenotes-2e1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-releasenotes-2-b-4-1b5"
+  },
+  "/ios-core/tags/room-metadata-9e2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-room-metadata-475-6a3"
+  },
+  "/ios-core/tags/self-3d1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-selfe-5-a-880"
+  },
+  "/ios-core/tags/self-events-fa4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-self-eventsae-2-f71"
+  },
+  "/ios-core/tags/setup-096": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-setup-38-d-2ce"
+  },
+  "/ios-core/tags/stage-8a3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-stagedac-385"
+  },
+  "/ios-core/tags/v-2-be4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-v-2-d-4-b-3e9"
+  },
+  "/ios-core/tags/votes-425": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-votesf-25-7ed"
+  },
+  "/ios-core/tags/waiting-room-bd2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-waiting-room-7-d-4-833"
+  },
+  "/ios-core/tags/waitlisted-875": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-core-tags-waitlisted-869-9b5"
+  },
+  "/ios-core-df2": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ios-core-44a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-11-a-5e6"
+  },
+  "/ios-core/chat/introduction-8e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-chat-introduction-559-c8e"
+  },
+  "/ios-core/chat/receiving-chat-messages-b56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-chat-receiving-chat-messagesf-89-4f1"
+  },
+  "/ios-core/chat/sending-a-chat-message-e10": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-chat-sending-a-chat-messagefbd-585"
+  },
+  "/ios-core/error-codes-389": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-error-codes-18-b-077"
+  },
+  "/ios-core/Introduction-e0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-introduction-6-b-8-5d9"
+  },
+  "/ios-core/livestreaming-9fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-livestreaming-3-cd-5cd"
+  },
+  "/ios-core/local-user/events-b54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-local-user-events-96-a-6cf"
+  },
+  "/ios-core/local-user/introduction-1ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-local-user-introductionca-2-7bf"
+  },
+  "/ios-core/local-user/manage-media-devices-773": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-local-user-manage-media-devices-2-b-7-794"
+  },
+  "/ios-core/local-user/manage-permissions-75c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-local-user-manage-permissionsa-17-1fe"
+  },
+  "/ios-core/local-user/screen-share-guide-c2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-local-user-screen-share-guidec-7-a-b71"
+  },
+  "/ios-core/participants-3e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-participants-8-a-3-882"
+  },
+  "/ios-core/participants/events-7b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-participants-events-9-cf-d9b"
+  },
+  "/ios-core/participants/participant-object-8f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-participants-participant-objectbd-2-d8f"
+  },
+  "/ios-core/participants/waitlisted-participants-41e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-participants-waitlisted-participantsd-6-c-19b"
+  },
+  "/ios-core/plugins/disable-plugin-382": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-plugins-disable-plugin-36-b-851"
+  },
+  "/ios-core/plugins/enable-plugin-fc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-plugins-enable-plugin-283-95f"
+  },
+  "/ios-core/plugins/extra-fd3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-plugins-extrabcf-9ee"
+  },
+  "/ios-core/plugins/introduction-402": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-plugins-introduction-99-f-42a"
+  },
+  "/ios-core/polls/creating-a-poll-4ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-polls-creating-a-poll-602-8d8"
+  },
+  "/ios-core/polls/introduction-920": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-polls-introduction-9-a-4-4be"
+  },
+  "/ios-core/polls/voting-on-a-poll-a03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-polls-voting-on-a-poll-123-3be"
+  },
+  "/ios-core/pre-call/handling-permissions-cb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-pre-call-handling-permissions-6-b-7-f56"
+  },
+  "/ios-core/pre-call/media-preview-a3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-pre-call-media-preview-1-e-2-65b"
+  },
+  "/ios-core/pre-call/meeting-meta-43e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-pre-call-meeting-meta-2-b-0-419"
+  },
+  "/ios-core/pre-call/waiting-room-1f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-pre-call-waiting-room-0-b-1-65e"
+  },
+  "/ios-core/recording-932": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-recording-644-8ec"
+  },
+  "/ios-core/release-notes-eae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-release-notes-5-b-3-306"
+  },
+  "/ios-core/room-metadata-a41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-room-metadata-025-95d"
+  },
+  "/ios-core/stage-management/host-controls-8bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-stage-management-host-controls-763-645"
+  },
+  "/ios-core/stage-management/introduction-681": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-stage-management-introductioneb-6-05a"
+  },
+  "/ios-core/stage-management/viewer-participants-5a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-stage-management-viewer-participants-484-6a3"
+  },
+  "/ios-core/upgrade-v2/breaking-changes-migration-bb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-upgrade-v-2-breaking-changes-migrationf-32-2af"
+  },
+  "/ios-core/upgrade-v2/introduction-d71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-core-upgrade-v-2-introduction-9-c-6-874"
+  },
+  "/ios-39f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ios-77-e-c76"
+    }
+  },
+  "/ios-873": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ios-04-d-b78"
+  },
+  "/ios/tags-3bc": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---ios-tags-46-e-d70"
+  },
+  "/ios/tags/releasenotes-ac0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ios-tags-releasenotesf-7-c-5e3"
+  },
+  "/ios-4f4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ios-834": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iosb-8-c-edf"
+  },
+  "/ios/build-pre-call-ui/build-your-own/dyte-setting-aa0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-build-pre-call-ui-build-your-own-dyte-settingd-85-6ff"
+  },
+  "/ios/build-pre-call-ui/build-your-own/initial-code-skeleton-f4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-build-pre-call-ui-build-your-own-initial-code-skeleton-225-993"
+  },
+  "/ios/build-pre-call-ui/default-setup-screen-8fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-build-pre-call-ui-default-setup-screenee-0-edb"
+  },
+  "/ios/chat/attachments-in-chat-a46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-chat-attachments-in-chatd-1-e-5e3"
+  },
+  "/ios/chat/components-in-chat-d1e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-chat-components-in-chate-55-ed3"
+  },
+  "/ios/chat/pre-built-chat-screen-a19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-chat-pre-built-chat-screen-47-a-84d"
+  },
+  "/ios/components/dyte-active-tab-selector-view-7c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-active-tab-selector-view-2-e-7-8da"
+  },
+  "/ios/components/dyte-avatar-e67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-avatar-9-ba-73a"
+  },
+  "/ios/components/dyte-button-72a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-button-31-b-cb7"
+  },
+  "/ios/components/dyte-camera-toggle-d41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-camera-toggle-1-e-9-e67"
+  },
+  "/ios/components/dyte-chat-55b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-chatddd-9d9"
+  },
+  "/ios/components/dyte-clock-8a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-clockc-49-3f9"
+  },
+  "/ios/components/dyte-configure-alertview-protocol-246": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-configure-alertview-protocole-87-6ff"
+  },
+  "/ios/components/dyte-controlbar-button-11c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-controlbar-buttoncfb-368"
+  },
+  "/ios/components/dyte-end-meeting-c4d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-end-meeting-6-e-2-022"
+  },
+  "/ios/components/dyte-grid-039": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-grida-33-00c"
+  },
+  "/ios/components/dyte-grid-pagination-82f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-grid-paginatione-44-517"
+  },
+  "/ios/components/dyte-join-stage-0a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-join-stage-129-630"
+  },
+  "/ios/components/dyte-leave-alert-actions-b1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-leave-alert-actions-6-df-9fa"
+  },
+  "/ios/components/dyte-leave-meeting-alert-118": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-leave-meeting-alert-85-b-9fa"
+  },
+  "/ios/components/dyte-meeting-6ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-meeting-5-a-3-797"
+  },
+  "/ios/components/dyte-meeting-titlelabel-9bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-meeting-titlelabel-95-c-7af"
+  },
+  "/ios/components/dyte-mic-toggle-5c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-mic-togglebe-0-959"
+  },
+  "/ios/components/dyte-more-toggle-693": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-more-toggle-699-609"
+  },
+  "/ios/components/dyte-name-tag-5f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-name-tag-635-5a1"
+  },
+  "/ios/components/dyte-navigationbar-a54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-navigationbar-986-fa4"
+  },
+  "/ios/components/dyte-participant-count-bfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-participant-count-319-d5e"
+  },
+  "/ios/components/dyte-participant-tile-view-9f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-participant-tile-view-507-870"
+  },
+  "/ios/components/dyte-participants-85e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-participantsd-58-c91"
+  },
+  "/ios/components/dyte-plugin-view-1c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-plugin-view-787-c19"
+  },
+  "/ios/components/dyte-plugins-0b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-pluginse-5-b-636"
+  },
+  "/ios/components/dyte-pluginScreenShareTab-button-da1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-plugin-screen-share-tab-buttonc-3-c-d8e"
+  },
+  "/ios/components/dyte-poll-form-286": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-poll-form-74-b-ff2"
+  },
+  "/ios/components/dyte-polls-62f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-polls-858-668"
+  },
+  "/ios/components/dyte-recording-indicator-b0d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-recording-indicator-042-994"
+  },
+  "/ios/components/dyte-settings-6a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-settings-21-f-2cf"
+  },
+  "/ios/components/dyte-setup-screen-2c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-setup-screenca-7-b6a"
+  },
+  "/ios/components/dyte-setup-screen-delegate-7af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-setup-screen-delegatee-8-a-610"
+  },
+  "/ios/components/dyte-webinar-stage-toggle-f21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-components-dyte-webinar-stage-toggle-962-3b4"
+  },
+  "/ios/design-system-031": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-design-system-988-7ba"
+  },
+  "/ios/events-232": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-events-3-d-7-94d"
+  },
+  "/ios/helper-classes/dyte-plugin-view-model-a74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-helper-classes-dyte-plugin-view-model-33-e-022"
+  },
+  "/ios/participants/host-controls-46f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-participants-host-controls-1-bb-85a"
+  },
+  "/ios/participants/introduction-bc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-participants-introduction-285-55c"
+  },
+  "/ios/participants/pre-built-participants-screen-925": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-participants-pre-built-participants-screen-3-e-2-1b4"
+  },
+  "/ios/participants/type-of-participants-0cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-participants-type-of-participantscb-3-738"
+  },
+  "/ios/Pre-Built-Plugins_Guides/load-plugin-6b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-pre-built-plugins-guides-load-plugin-50-e-bf7"
+  },
+  "/ios/Pre-Built-Plugins_Guides/Plugins-923": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-pre-built-plugins-guides-pluginsa-7-c-8c5"
+  },
+  "/ios/Pre-Built-Polls_Guides/Polls-24f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-pre-built-polls-guides-polls-30-c-337"
+  },
+  "/ios/Pre-Built-Polls_Guides/prebuilt_polls-a21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-pre-built-polls-guides-prebuilt-polls-263-384"
+  },
+  "/ios/Pre-Built-Settings_Guides/Settings-c20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-pre-built-settings-guides-settings-65-e-2ac"
+  },
+  "/ios/quickstart-45d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-quickstart-369-d25"
+  },
+  "/ios/release-notes-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-release-notes-401-bc7"
+  },
+  "/ios/rendering-participant-video/build-your-own-grid-895": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-rendering-participant-video-build-your-own-grid-7-bf-9b9"
+  },
+  "/ios/rendering-participant-video/using-dyteGrid-28b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ios-rendering-participant-video-using-dyte-grid-16-a-3eb"
+  },
+  "/plugin-sdk-46e": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---plugin-sdk-088-d56"
+    }
+  },
+  "/plugin-sdk-4a6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---plugin-sdkcb-3-292"
+  },
+  "/plugin-sdk/tags-32f": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---plugin-sdk-tags-40-e-b12"
+  },
+  "/plugin-sdk/tags/installation-e0a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---plugin-sdk-tags-installation-2-ca-00e"
+  },
+  "/plugin-sdk/tags/plugin-sdk-e8a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---plugin-sdk-tags-plugin-sdkf-35-e4e"
+  },
+  "/plugin-sdk/tags/quickstart-54f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---plugin-sdk-tags-quickstartf-09-98c"
+  },
+  "/plugin-sdk/tags/setup-05c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---plugin-sdk-tags-setup-136-0da"
+  },
+  "/plugin-sdk-884": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/plugin-sdk-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdkf-51-938"
+  },
+  "/plugin-sdk/frequently-asked-questions-601": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-frequently-asked-questions-8-b-4-465"
+  },
+  "/plugin-sdk/guides/exchange-data-between-plugin-and-meeting-6b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-guides-exchange-data-between-plugin-and-meeting-9-b-7-9c5"
+  },
+  "/plugin-sdk/guides/how-to-work-with-plugin-stores-4d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-guides-how-to-work-with-plugin-storesad-4-def"
+  },
+  "/plugin-sdk/quickstart-e40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-quickstart-655-84d"
+  },
+  "/plugin-sdk/setup/create-8f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-setup-createf-90-76c"
+  },
+  "/plugin-sdk/setup/customize-220": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-setup-customize-634-466"
+  },
+  "/plugin-sdk/setup/develop-50c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-setup-develop-4-f-9-117"
+  },
+  "/plugin-sdk/setup/manage-1d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-setup-managed-11-1ce"
+  },
+  "/plugin-sdk/setup/publish-b40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-setup-publisha-91-f48"
+  },
+  "/plugin-sdk/usage/basic/events-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-basic-events-466-755"
+  },
+  "/plugin-sdk/usage/basic/initialize-4d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-basic-initialize-27-a-36b"
+  },
+  "/plugin-sdk/usage/basic/methods-614": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-basic-methodsd-28-d83"
+  },
+  "/plugin-sdk/usage/installation-70f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-installationb-92-5b8"
+  },
+  "/plugin-sdk/usage/rooms-api/events-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-rooms-api-events-019-f72"
+  },
+  "/plugin-sdk/usage/rooms-api/methods-e2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-rooms-api-methods-948-498"
+  },
+  "/plugin-sdk/usage/stores-api/introduction-7ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-stores-api-introduction-233-7b2"
+  },
+  "/plugin-sdk/usage/stores-api/manage-stores-3ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugin-sdk-usage-stores-api-manage-stores-0-c-4-e34"
+  },
+  "/react-native-1a9": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---react-nativee-72-64e"
+    }
+  },
+  "/react-native-76b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---react-native-4-ec-612"
+  },
+  "/react-native/tags-397": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---react-native-tags-88-c-5c6"
+  },
+  "/react-native/tags/releasenotes-fd1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-native-tags-releasenotesae-6-9e5"
+  },
+  "/react-native-a26": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/react-native-58f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-nativeb-97-c82"
+  },
+  "/react-native/basics/display-videos-e09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-basics-display-videos-95-e-021"
+  },
+  "/react-native/basics/integrate-60e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-basics-integrate-159-e7f"
+  },
+  "/react-native/build-in-call-ui/build-your-own/add-custom-sidebar-b19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-build-your-own-add-custom-sidebar-216-52d"
+  },
+  "/react-native/build-in-call-ui/build-your-own/customize-control-bar-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-build-your-own-customize-control-barcba-9ee"
+  },
+  "/react-native/build-in-call-ui/build-your-own/customize-header-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-build-your-own-customize-headered-8-f2d"
+  },
+  "/react-native/build-in-call-ui/build-your-own/handling-states-and-configs-a49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-build-your-own-handling-states-and-configs-121-b0f"
+  },
+  "/react-native/build-in-call-ui/build-your-own/states based UI Split-36a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-build-your-own-states-based-ui-split-1-a-9-8d1"
+  },
+  "/react-native/build-in-call-ui/default-meeting-ui-25a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-in-call-ui-default-meeting-uib-23-471"
+  },
+  "/react-native/build-pre-call-ui/build-your-own/add-audio-video-device-01f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-pre-call-ui-build-your-own-add-audio-video-device-7-b-7-c8f"
+  },
+  "/react-native/build-pre-call-ui/build-your-own/add-audio-video-preview-ad2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-pre-call-ui-build-your-own-add-audio-video-preview-68-c-e11"
+  },
+  "/react-native/build-pre-call-ui/build-your-own/edit-user-name-4b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-pre-call-ui-build-your-own-edit-user-name-386-d5c"
+  },
+  "/react-native/build-pre-call-ui/build-your-own/initial-code-skeleton-205": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-pre-call-ui-build-your-own-initial-code-skeleton-3-cc-c3a"
+  },
+  "/react-native/build-pre-call-ui/default-setup-screen-b04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-build-pre-call-ui-default-setup-screeneb-7-9e3"
+  },
+  "/react-native/components-5db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-componentsfcc-8f8"
+  },
+  "/react-native/components/dyte-avatar-86c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-avatar-0-e-9-ce2"
+  },
+  "/react-native/components/dyte-button-5e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-buttoncd-5-9df"
+  },
+  "/react-native/components/dyte-camera-toggle-e00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-camera-togglebe-8-26c"
+  },
+  "/react-native/components/dyte-chat-996": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-chat-7-bf-d97"
+  },
+  "/react-native/components/dyte-chat-toggle-8c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-chat-toggle-411-0ba"
+  },
+  "/react-native/components/dyte-clock-3d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-clock-71-c-155"
+  },
+  "/react-native/components/dyte-controlbar-f05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-controlbarffa-3b1"
+  },
+  "/react-native/components/dyte-controlbar-button-751": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-controlbar-buttonb-46-e77"
+  },
+  "/react-native/components/dyte-dialog-104": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-dialog-5-ec-66a"
+  },
+  "/react-native/components/dyte-dialog-manager-df7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-dialog-managere-8-f-283"
+  },
+  "/react-native/components/dyte-ended-screen-f7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-ended-screenc-6-d-fa9"
+  },
+  "/react-native/components/dyte-file-message-226": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-file-message-339-a22"
+  },
+  "/react-native/components/dyte-grid-c6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-gridbbb-40e"
+  },
+  "/react-native/components/dyte-grid-pagination-9e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-grid-paginationb-75-a65"
+  },
+  "/react-native/components/dyte-header-f49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-header-2-e-2-000"
+  },
+  "/react-native/components/dyte-icon-d0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-icon-24-f-93f"
+  },
+  "/react-native/components/dyte-idle-screen-22e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-idle-screen-7-b-8-2ae"
+  },
+  "/react-native/components/dyte-image-message-81f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-image-message-55-c-232"
+  },
+  "/react-native/components/dyte-image-viewer-638": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-image-viewerb-1-c-b36"
+  },
+  "/react-native/components/dyte-join-stage-ab5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-join-stage-950-3d6"
+  },
+  "/react-native/components/dyte-leave-button-9d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-leave-button-125-f1d"
+  },
+  "/react-native/components/dyte-leave-meeting-c97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-leave-meetingb-8-e-b76"
+  },
+  "/react-native/components/dyte-logo-68d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-logof-60-592"
+  },
+  "/react-native/components/dyte-meeting-6ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-meeting-349-d31"
+  },
+  "/react-native/components/dyte-meeting-title-bfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-meeting-title-9-f-7-f9c"
+  },
+  "/react-native/components/dyte-menu-a30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-menufce-32f"
+  },
+  "/react-native/components/dyte-menu-item-67f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-menu-item-74-c-398"
+  },
+  "/react-native/components/dyte-menu-list-cf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-menu-list-156-ed1"
+  },
+  "/react-native/components/dyte-mic-toggle-d54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-mic-toggle-936-bf9"
+  },
+  "/react-native/components/dyte-more-toggle-12d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-more-toggle-059-fee"
+  },
+  "/react-native/components/dyte-mute-all-button-ff9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-mute-all-button-471-a14"
+  },
+  "/react-native/components/dyte-name-tag-60c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-name-tag-8-e-6-34d"
+  },
+  "/react-native/components/dyte-notification-fa3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-notification-73-a-85d"
+  },
+  "/react-native/components/dyte-notifications-46d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-notificationsd-58-4bb"
+  },
+  "/react-native/components/dyte-participant-379": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-participantaf-1-746"
+  },
+  "/react-native/components/dyte-participant-count-caa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-participant-counta-73-e65"
+  },
+  "/react-native/components/dyte-participant-tile-318": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-participant-tile-98-c-fe4"
+  },
+  "/react-native/components/dyte-participants-c38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-participantsc-67-a31"
+  },
+  "/react-native/components/dyte-participants-toggle-c68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-participants-toggle-6-be-ff4"
+  },
+  "/react-native/components/dyte-permissions-message-790": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-permissions-message-3-c-2-aa4"
+  },
+  "/react-native/components/dyte-plugin-main-118": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-plugin-main-086-43c"
+  },
+  "/react-native/components/dyte-plugins-988": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-pluginsd-51-708"
+  },
+  "/react-native/components/dyte-plugins-toggle-d18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-plugins-toggle-9-bd-949"
+  },
+  "/react-native/components/dyte-poll-502": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-pollab-3-12d"
+  },
+  "/react-native/components/dyte-poll-form-aff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-poll-form-22-e-7d1"
+  },
+  "/react-native/components/dyte-polls-89b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-polls-40-a-7c7"
+  },
+  "/react-native/components/dyte-polls-toggle-3f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-polls-toggleb-53-01d"
+  },
+  "/react-native/components/dyte-recording-indicator-00a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-recording-indicator-3-d-7-68a"
+  },
+  "/react-native/components/dyte-recording-toggle-4b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-recording-togglef-70-814"
+  },
+  "/react-native/components/dyte-screen-share-toggle-9ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-screen-share-toggle-43-d-65a"
+  },
+  "/react-native/components/dyte-screenshare-view-677": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-screenshare-view-891-38a"
+  },
+  "/react-native/components/dyte-settings-92b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-settingsc-5-b-51c"
+  },
+  "/react-native/components/dyte-settings-audio-7cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-settings-audio-15-c-f79"
+  },
+  "/react-native/components/dyte-settings-toggle-f70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-settings-togglef-6-e-a5c"
+  },
+  "/react-native/components/dyte-settings-video-897": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-settings-video-96-a-77b"
+  },
+  "/react-native/components/dyte-setup-screen-84d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-setup-screen-573-3ec"
+  },
+  "/react-native/components/dyte-sidebar-fa3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-sidebar-615-1a3"
+  },
+  "/react-native/components/dyte-simple-grid-5f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-simple-gride-48-534"
+  },
+  "/react-native/components/dyte-spinner-7e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-spinnerf-89-a3c"
+  },
+  "/react-native/components/dyte-spotlight-grid-57f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-spotlight-grid-4-bf-923"
+  },
+  "/react-native/components/dyte-text-5cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-text-603-7bf"
+  },
+  "/react-native/components/dyte-text-field-095": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-text-fieldc-2-f-3a2"
+  },
+  "/react-native/components/dyte-waiting-screen-431": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-waiting-screenf-09-447"
+  },
+  "/react-native/components/dyte-webinar-stage-toggle-971": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-components-dyte-webinar-stage-toggle-2-f-3-7df"
+  },
+  "/react-native/customizations/custom-iconpack-918": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-customizations-custom-iconpack-865-e20"
+  },
+  "/react-native/customizations/custom-locale-d1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-customizations-custom-locale-0-ff-ccd"
+  },
+  "/react-native/design-system-483": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-design-systemac-6-009"
+  },
+  "/react-native/quickstart-0ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-quickstart-31-e-8c9"
+  },
+  "/react-native/reference-a04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-referenceab-0-e32"
+  },
+  "/react-native/reference/classes/DyteNotificationsAudio-ee6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-classes-dyte-notifications-audiob-0-a-15e"
+  },
+  "/react-native/reference/interfaces/Notification-e5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-interfaces-notificationfb-6-fc9"
+  },
+  "/react-native/reference/interfaces/PollObject-2bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-interfaces-poll-object-0-bd-a76"
+  },
+  "/react-native/reference/interfaces/States-202": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-interfaces-states-77-d-848"
+  },
+  "/react-native/reference/interfaces/UIConfig-80d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-interfaces-ui-configb-75-466"
+  },
+  "/react-native/reference/interfaces/UserPreferences-973": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-reference-interfaces-user-preferencesf-81-770"
+  },
+  "/react-native/release-notes-133": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-release-notes-142-c5c"
+  },
+  "/react-native/using-hooks-a7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-native-using-hooksf-03-6d9"
+  },
+  "/react-ui-kit-c3f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---react-ui-kit-528-9d7"
+    }
+  },
+  "/react-ui-kit-ea9": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---react-ui-kit-046-740"
+  },
+  "/react-ui-kit/tags-953": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---react-ui-kit-tagsbc-4-59b"
+  },
+  "/react-ui-kit/tags/releasenotes-3c0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-ui-kit-tags-releasenotesb-96-7b5"
+  },
+  "/react-ui-kit-9d4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/react-ui-kit-23e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kitcef-6a0"
+  },
+  "/react-ui-kit/basics/display-videos-8ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-basics-display-videosdfe-5fd"
+  },
+  "/react-ui-kit/basics/integrate-4a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-basics-integrate-28-e-c8d"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-add-custom-sidebar-4-ae-3e3"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/customize-control-bar-662": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-customize-control-bar-258-efc"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/customize-header-27c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-customize-headere-36-b8a"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-handling-states-and-configs-21-c-38e"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid-a73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-stage-ui-using-dyte-gridf-3-e-9b6"
+  },
+  "/react-ui-kit/build-in-call-ui/build-your-own/states-based-ui-split-3d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-build-your-own-states-based-ui-split-2-b-3-7e7"
+  },
+  "/react-ui-kit/build-in-call-ui/default-meeting-ui-268": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-in-call-ui-default-meeting-ui-2-de-dc7"
+  },
+  "/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-device-9fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-build-your-own-add-audio-video-devicee-84-2a5"
+  },
+  "/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-preview-ecb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-build-your-own-add-audio-video-preview-8-b-2-e12"
+  },
+  "/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware-1fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-build-your-own-add-middleware-019-419"
+  },
+  "/react-ui-kit/build-pre-call-ui/build-your-own/edit-user-name-16c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-build-your-own-edit-user-name-71-e-7d3"
+  },
+  "/react-ui-kit/build-pre-call-ui/build-your-own/initial-code-skeleton-90e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-build-your-own-initial-code-skeletonb-26-056"
+  },
+  "/react-ui-kit/build-pre-call-ui/default-setup-screen-a2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-build-pre-call-ui-default-setup-screenf-4-e-ee8"
+  },
+  "/react-ui-kit/components-7e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-878-b93"
+  },
+  "/react-ui-kit/components/dyte-audio-visualizer-aca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-audio-visualizer-5-dd-53c"
+  },
+  "/react-ui-kit/components/dyte-avatar-e91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-avatard-87-2bb"
+  },
+  "/react-ui-kit/components/dyte-button-d33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-button-492-fd3"
+  },
+  "/react-ui-kit/components/dyte-camera-toggle-969": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-camera-togglea-36-276"
+  },
+  "/react-ui-kit/components/dyte-chat-632": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-chat-4-f-9-308"
+  },
+  "/react-ui-kit/components/dyte-chat-toggle-264": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-chat-toggle-27-e-4ff"
+  },
+  "/react-ui-kit/components/dyte-clock-f15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-clockf-1-a-6fb"
+  },
+  "/react-ui-kit/components/dyte-confirmation-modal-69c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-confirmation-modal-4-a-7-04a"
+  },
+  "/react-ui-kit/components/dyte-controlbar-d45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-controlbar-5-d-3-237"
+  },
+  "/react-ui-kit/components/dyte-controlbar-button-bc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-controlbar-buttond-27-45c"
+  },
+  "/react-ui-kit/components/dyte-dialog-ffc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-dialogc-7-c-8be"
+  },
+  "/react-ui-kit/components/dyte-dialog-manager-3e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-dialog-manager-7-cb-69b"
+  },
+  "/react-ui-kit/components/dyte-emoji-picker-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-emoji-pickerbf-6-028"
+  },
+  "/react-ui-kit/components/dyte-ended-screen-114": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-ended-screen-5-ca-1f1"
+  },
+  "/react-ui-kit/components/dyte-file-message-c74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-file-message-96-c-d10"
+  },
+  "/react-ui-kit/components/dyte-fullscreen-toggle-6c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-fullscreen-toggle-0-cc-fef"
+  },
+  "/react-ui-kit/components/dyte-grid-51a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-grid-305-65a"
+  },
+  "/react-ui-kit/components/dyte-grid-pagination-3bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-grid-paginationac-7-cf9"
+  },
+  "/react-ui-kit/components/dyte-header-2c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-headerb-7-b-31f"
+  },
+  "/react-ui-kit/components/dyte-icon-49d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-icon-7-a-1-08b"
+  },
+  "/react-ui-kit/components/dyte-idle-screen-8c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-idle-screen-845-11f"
+  },
+  "/react-ui-kit/components/dyte-image-message-0cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-image-message-860-963"
+  },
+  "/react-ui-kit/components/dyte-image-viewer-7d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-image-viewer-541-e19"
+  },
+  "/react-ui-kit/components/dyte-leave-button-7a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-leave-button-0-bd-f75"
+  },
+  "/react-ui-kit/components/dyte-leave-meeting-9af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-leave-meetingf-71-51e"
+  },
+  "/react-ui-kit/components/dyte-logo-9f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-logo-314-dfd"
+  },
+  "/react-ui-kit/components/dyte-meeting-5b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-meeting-848-a76"
+  },
+  "/react-ui-kit/components/dyte-meeting-title-6f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-meeting-title-506-672"
+  },
+  "/react-ui-kit/components/dyte-menu-ed0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-menu-667-2f5"
+  },
+  "/react-ui-kit/components/dyte-menu-item-ba2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-menu-itemf-60-a2a"
+  },
+  "/react-ui-kit/components/dyte-menu-list-a36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-menu-listc-77-6e9"
+  },
+  "/react-ui-kit/components/dyte-mic-toggle-819": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-mic-togglea-4-d-2ae"
+  },
+  "/react-ui-kit/components/dyte-mixed-grid-8d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-mixed-grid-411-1e4"
+  },
+  "/react-ui-kit/components/dyte-more-toggle-693": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-more-toggle-809-059"
+  },
+  "/react-ui-kit/components/dyte-name-tag-0a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-name-tag-3-eb-999"
+  },
+  "/react-ui-kit/components/dyte-network-indicator-c03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-network-indicatoraff-efa"
+  },
+  "/react-ui-kit/components/dyte-notification-51e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-notificationf-0-e-af5"
+  },
+  "/react-ui-kit/components/dyte-notifications-694": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-notifications-4-ba-c6f"
+  },
+  "/react-ui-kit/components/dyte-overlay-modal-eb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-overlay-modal-5-ff-e75"
+  },
+  "/react-ui-kit/components/dyte-participant-87b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participant-860-4c5"
+  },
+  "/react-ui-kit/components/dyte-participant-count-151": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participant-countd-1-e-cf7"
+  },
+  "/react-ui-kit/components/dyte-participant-tile-d7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participant-tilea-57-a22"
+  },
+  "/react-ui-kit/components/dyte-participants-c0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participants-7-b-8-6d8"
+  },
+  "/react-ui-kit/components/dyte-participants-audio-bef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participants-audio-0-a-8-78b"
+  },
+  "/react-ui-kit/components/dyte-participants-stage-list-358": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participants-stage-list-6-fb-b77"
+  },
+  "/react-ui-kit/components/dyte-participants-toggle-ad4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-participants-toggleca-2-cb8"
+  },
+  "/react-ui-kit/components/dyte-permissions-message-41d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-permissions-message-45-e-922"
+  },
+  "/react-ui-kit/components/dyte-plugin-main-94e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-plugin-mainbce-9b2"
+  },
+  "/react-ui-kit/components/dyte-plugins-25f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-plugins-30-a-98a"
+  },
+  "/react-ui-kit/components/dyte-plugins-toggle-889": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-plugins-toggle-0-bb-cf7"
+  },
+  "/react-ui-kit/components/dyte-poll-ef4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-poll-2-c-1-e30"
+  },
+  "/react-ui-kit/components/dyte-poll-form-fa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-poll-form-1-b-4-cc2"
+  },
+  "/react-ui-kit/components/dyte-polls-129": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-polls-95-f-e0e"
+  },
+  "/react-ui-kit/components/dyte-polls-toggle-a92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-polls-toggle-9-c-9-444"
+  },
+  "/react-ui-kit/components/dyte-recording-indicator-1ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-recording-indicatorf-43-5f0"
+  },
+  "/react-ui-kit/components/dyte-recording-toggle-c83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-recording-toggle-534-f26"
+  },
+  "/react-ui-kit/components/dyte-remote-access-manager-337": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-remote-access-manager-78-d-f5e"
+  },
+  "/react-ui-kit/components/dyte-screen-share-toggle-f38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-screen-share-toggledee-6ee"
+  },
+  "/react-ui-kit/components/dyte-screenshare-view-ae8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-screenshare-viewcdd-505"
+  },
+  "/react-ui-kit/components/dyte-settings-a06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-settings-6-e-3-c0c"
+  },
+  "/react-ui-kit/components/dyte-settings-audio-68c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-settings-audio-1-c-9-172"
+  },
+  "/react-ui-kit/components/dyte-settings-toggle-90e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-settings-toggleaeb-83a"
+  },
+  "/react-ui-kit/components/dyte-settings-video-aa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-settings-videoef-5-39c"
+  },
+  "/react-ui-kit/components/dyte-setup-screen-12c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-setup-screena-00-f9e"
+  },
+  "/react-ui-kit/components/dyte-sidebar-387": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-sidebar-323-dc6"
+  },
+  "/react-ui-kit/components/dyte-simple-grid-7d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-simple-grid-595-cdb"
+  },
+  "/react-ui-kit/components/dyte-spinner-cfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-spinner-438-6a2"
+  },
+  "/react-ui-kit/components/dyte-spotlight-grid-641": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-spotlight-gridd-60-da0"
+  },
+  "/react-ui-kit/components/dyte-stage-3f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-stagee-37-be5"
+  },
+  "/react-ui-kit/components/dyte-switch-dc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-switchb-20-7a4"
+  },
+  "/react-ui-kit/components/dyte-text-field-19f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-text-field-0-c-4-7ec"
+  },
+  "/react-ui-kit/components/dyte-text-message-c31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-text-messageb-92-953"
+  },
+  "/react-ui-kit/components/dyte-tooltip-30e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-tooltip-22-f-2e1"
+  },
+  "/react-ui-kit/components/dyte-viewer-count-165": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-components-dyte-viewer-count-2-d-5-ad9"
+  },
+  "/react-ui-kit/customizations/custom-iconpack-e37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-customizations-custom-iconpackb-21-a7b"
+  },
+  "/react-ui-kit/customizations/custom-locale-7d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-customizations-custom-localeb-9-d-3a4"
+  },
+  "/react-ui-kit/design-system-f34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-design-system-4-ce-e53"
+  },
+  "/react-ui-kit/quickstart-876": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-quickstart-732-cc7"
+  },
+  "/react-ui-kit/reference-a87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-934-f9e"
+  },
+  "/react-ui-kit/reference/classes/DyteNotificationsAudio-b26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-classes-dyte-notifications-audio-5-c-8-9ee"
+  },
+  "/react-ui-kit/reference/interfaces/Notification-0f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-interfaces-notificationfd-8-814"
+  },
+  "/react-ui-kit/reference/interfaces/PollObject-729": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-interfaces-poll-objectcdb-a0d"
+  },
+  "/react-ui-kit/reference/interfaces/States-0cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-interfaces-statesa-50-5ba"
+  },
+  "/react-ui-kit/reference/interfaces/UIConfig-6b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-interfaces-ui-config-2-f-6-915"
+  },
+  "/react-ui-kit/reference/interfaces/UserPreferences-cb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-reference-interfaces-user-preferences-422-92f"
+  },
+  "/react-ui-kit/release-notes-3a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-release-notesa-09-c40"
+  },
+  "/react-ui-kit/using-hooks-b5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-ui-kit-using-hooks-913-672"
+  },
+  "/react-web-core-c7f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---react-web-core-956-1f4"
+    }
+  },
+  "/react-web-core-55c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---react-web-core-35-a-499"
+  },
+  "/react-web-core/tags-78c": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---react-web-core-tags-1-ac-101"
+  },
+  "/react-web-core/tags/chat-400": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-chatcee-06d"
+  },
+  "/react-web-core/tags/create-54c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-create-784-a4b"
+  },
+  "/react-web-core/tags/local-user-0f5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-local-usera-36-7b0"
+  },
+  "/react-web-core/tags/methods-975": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-methodse-03-fad"
+  },
+  "/react-web-core/tags/participant-5c6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-participant-058-1d4"
+  },
+  "/react-web-core/tags/participants-f7a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-participants-284-41c"
+  },
+  "/react-web-core/tags/plugins-24e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-plugins-04-a-4b8"
+  },
+  "/react-web-core/tags/polls-b0e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-polls-5-f-5-cf3"
+  },
+  "/react-web-core/tags/react-web-core-df9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-react-web-core-8-b-6-018"
+  },
+  "/react-web-core/tags/recording-862": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-recordingdd-3-66c"
+  },
+  "/react-web-core/tags/releasenotes-4bd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-releasenotes-0-e-4-f9e"
+  },
+  "/react-web-core/tags/results-fa5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-resultsca-7-5b6"
+  },
+  "/react-web-core/tags/room-metadata-7c6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-room-metadata-7-af-4e7"
+  },
+  "/react-web-core/tags/self-03a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-self-465-fcb"
+  },
+  "/react-web-core/tags/self-events-057": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-self-eventscc-2-2d4"
+  },
+  "/react-web-core/tags/updates-60b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-updatesf-91-a6f"
+  },
+  "/react-web-core/tags/votes-cea": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-votesd-31-6cd"
+  },
+  "/react-web-core/tags/web-core-30d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---react-web-core-tags-web-core-79-c-48a"
+  },
+  "/react-web-core-5ff": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/react-web-core-6f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-4-e-1-b45"
+  },
+  "/react-web-core/advanced/advance-3a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-advanced-advance-20-a-e3a"
+  },
+  "/react-web-core/chat/edit-chat-messages-68f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-chat-edit-chat-messages-62-a-ead"
+  },
+  "/react-web-core/chat/introduction-e27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-chat-introductionf-59-4ba"
+  },
+  "/react-web-core/chat/other-chat-functions-a6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-chat-other-chat-functionscd-5-6cb"
+  },
+  "/react-web-core/chat/receiving-chat-messages-fa1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-chat-receiving-chat-messages-2-a-6-282"
+  },
+  "/react-web-core/chat/sending-a-chat-message-3b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-chat-sending-a-chat-messagea-29-307"
+  },
+  "/react-web-core/error-codes/error-code-c88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-error-codes-error-code-3-e-3-15e"
+  },
+  "/react-web-core/error-codes/error-code-zero-ten-fed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-error-codes-error-code-zero-tenf-29-75d"
+  },
+  "/react-web-core/introduction-0e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-introduction-115-7ad"
+  },
+  "/react-web-core/livestreaming-c81": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-livestreaming-40-d-65a"
+  },
+  "/react-web-core/local-user/events-056": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-local-user-events-17-c-5dc"
+  },
+  "/react-web-core/local-user/extras-109": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-local-user-extras-259-77c"
+  },
+  "/react-web-core/local-user/introduction-79a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-local-user-introduction-725-e76"
+  },
+  "/react-web-core/local-user/manage-media-devices-6ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-local-user-manage-media-devices-74-a-aa5"
+  },
+  "/react-web-core/local-user/media-permission-errors-d19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-local-user-media-permission-errors-5-cf-9cf"
+  },
+  "/react-web-core/participants-4f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-participantsa-43-ed3"
+  },
+  "/react-web-core/participants/events-dcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-participants-events-0-e-1-ad9"
+  },
+  "/react-web-core/participants/participant-object-bd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-participants-participant-objecta-85-d9c"
+  },
+  "/react-web-core/participants/permissions-b96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-participants-permissionsd-28-fe0"
+  },
+  "/react-web-core/participants/pip-049": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-participants-pipdbd-446"
+  },
+  "/react-web-core/plugins/disable-plugin-bdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-plugins-disable-plugin-290-16c"
+  },
+  "/react-web-core/plugins/enable-plugin-258": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-plugins-enable-plugin-3-c-5-149"
+  },
+  "/react-web-core/plugins/extra-ca6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-plugins-extra-26-c-a66"
+  },
+  "/react-web-core/plugins/introduction-25d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-plugins-introductionf-9-b-d15"
+  },
+  "/react-web-core/polls/creating-a-poll-f22": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-polls-creating-a-poll-86-b-530"
+  },
+  "/react-web-core/polls/introduction-0e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-polls-introduction-62-a-479"
+  },
+  "/react-web-core/polls/other-poll-functions-a45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-polls-other-poll-functions-5-c-9-343"
+  },
+  "/react-web-core/polls/voting-on-a-poll-3e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-polls-voting-on-a-poll-2-a-7-b2a"
+  },
+  "/react-web-core/pre-call/handling-permissions-55b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-pre-call-handling-permissions-7-b-4-948"
+  },
+  "/react-web-core/pre-call/media-preview-ac8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-pre-call-media-previewc-5-d-1c4"
+  },
+  "/react-web-core/pre-call/meeting-meta-01e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-pre-call-meeting-metaff-0-78a"
+  },
+  "/react-web-core/pre-call/virtual-bg-af9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-pre-call-virtual-bg-826-4ba"
+  },
+  "/react-web-core/pre-call/waiting-room-08b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-pre-call-waiting-roombd-3-86e"
+  },
+  "/react-web-core/recording-99c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-recording-8-f-9-ccf"
+  },
+  "/react-web-core/reference/DyteAi-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-ai-35-a-98b"
+  },
+  "/react-web-core/reference/DyteChat-262": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-chat-48-b-0cd"
+  },
+  "/react-web-core/reference/DyteClient-cc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-client-224-f71"
+  },
+  "/react-web-core/reference/DyteConnectedMeetings-ae1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-connected-meetingsc-20-9a4"
+  },
+  "/react-web-core/reference/DyteLivestream-9d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-livestream-3-f-8-ffc"
+  },
+  "/react-web-core/reference/DyteMeta-daa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-metad-8-c-ee6"
+  },
+  "/react-web-core/reference/DyteParticipant-e71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-participantfa-2-a7f"
+  },
+  "/react-web-core/reference/DyteParticipantMap-6f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-participant-map-0-ed-d81"
+  },
+  "/react-web-core/reference/DyteParticipants-ef4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-participants-9-f-5-318"
+  },
+  "/react-web-core/reference/DytePermissionsPreset-a35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-permissions-presetf-3-f-1ae"
+  },
+  "/react-web-core/reference/DytePlugin-7f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-plugin-996-679"
+  },
+  "/react-web-core/reference/DytePluginMap-6b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-plugin-map-95-e-51d"
+  },
+  "/react-web-core/reference/DytePlugins-78b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-pluginsd-3-f-8bd"
+  },
+  "/react-web-core/reference/DytePolls-839": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-pollsf-6-f-d96"
+  },
+  "/react-web-core/reference/DyteRecording-df5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-recording-7-a-1-35b"
+  },
+  "/react-web-core/reference/DyteRemote-283": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-remote-5-be-13f"
+  },
+  "/react-web-core/reference/DyteSelf-8ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-self-061-7cb"
+  },
+  "/react-web-core/reference/DyteSelfMedia-8b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-self-mediaea-3-001"
+  },
+  "/react-web-core/reference/DyteStage-d11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-stage-268-39d"
+  },
+  "/react-web-core/reference/DyteThemePreset-29c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-reference-dyte-theme-preset-2-ff-877"
+  },
+  "/react-web-core/release-notes-2f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-release-notes-00-d-e68"
+  },
+  "/react-web-core/room-metadata-acc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-room-metadatac-7-e-8f1"
+  },
+  "/react-web-core/stage-d4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-stagec-7-e-0ca"
+  },
+  "/react-web-core/upgrade-64f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---react-web-core-upgraded-14-9f4"
+  },
+  "/rn-core-1f6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---rn-core-4-a-9-17f"
+    }
+  },
+  "/rn-core-d34": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---rn-core-14-c-5e2"
+  },
+  "/rn-core/tags-c63": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---rn-core-tagscf-7-c23"
+  },
+  "/rn-core/tags/chat-11d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-chat-5-c-9-cd1"
+  },
+  "/rn-core/tags/create-5b1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-create-2-e-3-5c2"
+  },
+  "/rn-core/tags/installation-240": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-installation-146-83f"
+  },
+  "/rn-core/tags/local-user-75b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-local-usera-12-22b"
+  },
+  "/rn-core/tags/methods-f79": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-methods-33-f-a87"
+  },
+  "/rn-core/tags/participant-591": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-participant-65-b-438"
+  },
+  "/rn-core/tags/participants-2b8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-participantscde-e6f"
+  },
+  "/rn-core/tags/plugins-181": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-pluginsbf-0-31a"
+  },
+  "/rn-core/tags/polls-434": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-pollsaf-3-4c9"
+  },
+  "/rn-core/tags/quickstart-6cf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-quickstart-0-e-7-caa"
+  },
+  "/rn-core/tags/recording-36a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-recording-009-e0b"
+  },
+  "/rn-core/tags/releasenotes-6ca": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-releasenotesc-23-5ae"
+  },
+  "/rn-core/tags/results-229": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-results-1-aa-979"
+  },
+  "/rn-core/tags/rn-core-7f4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-rn-core-1-b-2-b47"
+  },
+  "/rn-core/tags/room-metadata-eb7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-room-metadata-029-bf9"
+  },
+  "/rn-core/tags/self-8e0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-selfb-5-b-d25"
+  },
+  "/rn-core/tags/self-events-eb2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-self-events-48-d-7e5"
+  },
+  "/rn-core/tags/setup-efd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-setupb-2-a-3a9"
+  },
+  "/rn-core/tags/updates-326": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-updatescbc-e98"
+  },
+  "/rn-core/tags/votes-acb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-votesf-06-007"
+  },
+  "/rn-core/tags/web-core-3fe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---rn-core-tags-web-coref-0-a-111"
+  },
+  "/rn-core-84b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/rn-core-708": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-corecc-5-c46"
+  },
+  "/rn-core/chat/edit-chat-messages-4fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-chat-edit-chat-messages-7-c-2-bc0"
+  },
+  "/rn-core/chat/introduction-e0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-chat-introduction-4-bd-90e"
+  },
+  "/rn-core/chat/other-chat-functions-e1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-chat-other-chat-functionsbb-0-49f"
+  },
+  "/rn-core/chat/receiving-chat-messages-15a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-chat-receiving-chat-messages-368-758"
+  },
+  "/rn-core/chat/sending-a-chat-message-80b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-chat-sending-a-chat-messagebdb-874"
+  },
+  "/rn-core/error-codes/error-code-7bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-error-codes-error-code-6-a-6-049"
+  },
+  "/rn-core/error-codes/error-code-zero-ten-8d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-error-codes-error-code-zero-ten-78-b-d8d"
+  },
+  "/rn-core/livestreaming-b2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-livestreaming-5-e-6-cc3"
+  },
+  "/rn-core/local-user/events-e0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-local-user-eventsbb-9-d72"
+  },
+  "/rn-core/local-user/extras-c7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-local-user-extras-3-ae-a5e"
+  },
+  "/rn-core/local-user/introduction-b18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-local-user-introduction-849-3a0"
+  },
+  "/rn-core/local-user/manage-media-devices-d6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-local-user-manage-media-devices-43-c-1e8"
+  },
+  "/rn-core/local-user/media-permission-errors-9da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-local-user-media-permission-errors-109-2b7"
+  },
+  "/rn-core/participants-dc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-participants-227-8e0"
+  },
+  "/rn-core/participants/events-cfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-participants-eventsbd-4-817"
+  },
+  "/rn-core/participants/participant-object-2b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-participants-participant-object-8-a-2-909"
+  },
+  "/rn-core/participants/permissions-de7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-participants-permissions-033-fa1"
+  },
+  "/rn-core/plugins/disable-plugin-de9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-plugins-disable-plugin-257-a6e"
+  },
+  "/rn-core/plugins/enable-plugin-749": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-plugins-enable-pluginabc-c91"
+  },
+  "/rn-core/plugins/extra-9a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-plugins-extrae-08-a89"
+  },
+  "/rn-core/plugins/introduction-542": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-plugins-introduction-0-ce-77d"
+  },
+  "/rn-core/polls/creating-a-poll-9aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-polls-creating-a-poll-428-4ea"
+  },
+  "/rn-core/polls/introduction-324": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-polls-introductionb-1-b-42b"
+  },
+  "/rn-core/polls/other-poll-functions-1a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-polls-other-poll-functions-872-b17"
+  },
+  "/rn-core/polls/voting-on-a-poll-935": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-polls-voting-on-a-poll-3-f-5-d54"
+  },
+  "/rn-core/pre-call/handling-permissions-a76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-pre-call-handling-permissions-578-a56"
+  },
+  "/rn-core/pre-call/media-preview-f20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-pre-call-media-previewfe-2-215"
+  },
+  "/rn-core/pre-call/meeting-meta-cee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-pre-call-meeting-metae-91-55f"
+  },
+  "/rn-core/pre-call/waiting-room-197": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-pre-call-waiting-room-0-ff-f61"
+  },
+  "/rn-core/quickstart-047": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-quickstartcea-f62"
+  },
+  "/rn-core/recording-5c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-recordingd-66-12a"
+  },
+  "/rn-core/reference/DyteAi-85a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-ai-742-959"
+  },
+  "/rn-core/reference/DyteChat-f9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-chate-68-903"
+  },
+  "/rn-core/reference/DyteClient-965": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-clienta-45-44a"
+  },
+  "/rn-core/reference/DyteConnectedMeetings-96b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-connected-meetingsfc-5-f07"
+  },
+  "/rn-core/reference/DyteLivestream-b33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-livestreamf-7-c-67c"
+  },
+  "/rn-core/reference/DyteMeta-1a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-metafc-1-dac"
+  },
+  "/rn-core/reference/DyteParticipant-08a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-participant-10-c-097"
+  },
+  "/rn-core/reference/DyteParticipantMap-bb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-participant-mapdb-1-85b"
+  },
+  "/rn-core/reference/DyteParticipants-1ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-participants-743-9ff"
+  },
+  "/rn-core/reference/DytePermissionsPreset-590": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-permissions-preset-895-854"
+  },
+  "/rn-core/reference/DytePlugin-146": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-pluginea-8-5d1"
+  },
+  "/rn-core/reference/DytePluginMap-f60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-plugin-map-84-e-342"
+  },
+  "/rn-core/reference/DytePlugins-bd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-pluginsaee-e6f"
+  },
+  "/rn-core/reference/DytePolls-ef8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-pollsb-53-523"
+  },
+  "/rn-core/reference/DyteRecording-485": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-recording-3-cf-7d5"
+  },
+  "/rn-core/reference/DyteRemote-152": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-remotec-2-b-038"
+  },
+  "/rn-core/reference/DyteSelf-849": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-self-35-a-b43"
+  },
+  "/rn-core/reference/DyteSelfMedia-c7f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-self-media-912-280"
+  },
+  "/rn-core/reference/DyteStage-f17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-stagec-40-cfc"
+  },
+  "/rn-core/reference/DyteThemePreset-f33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-reference-dyte-theme-presetb-10-8f0"
+  },
+  "/rn-core/release-notes-775": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-release-notes-3-b-6-251"
+  },
+  "/rn-core/room-metadata-e41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-room-metadata-99-c-8f1"
+  },
+  "/rn-core/stage-db6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rn-core-stage-135-b30"
+  },
+  "/ui-kit-fc4": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ui-kita-61-0cb"
+    }
+  },
+  "/ui-kit-a4d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ui-kitea-7-00a"
+  },
+  "/ui-kit/tags-8d0": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---ui-kit-tags-478-f3a"
+  },
+  "/ui-kit/tags/releasenotes-ccb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ui-kit-tags-releasenotes-9-d-7-986"
+  },
+  "/ui-kit-45c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ui-kit-7e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-0-c-1-055"
+  },
+  "/ui-kit/basics/components-basics-20e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-basics-components-basics-90-b-b20"
+  },
+  "/ui-kit/basics/pre-requisite-c7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-basics-pre-requisite-0-fc-eae"
+  },
+  "/ui-kit/components-69f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-componentscfe-1a8"
+  },
+  "/ui-kit/components/dyte-audio-visualizer-f12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-audio-visualizer-8-bd-737"
+  },
+  "/ui-kit/components/dyte-avatar-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-avatarf-06-098"
+  },
+  "/ui-kit/components/dyte-button-7ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-button-073-b1e"
+  },
+  "/ui-kit/components/dyte-camera-toggle-349": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-camera-toggledb-4-252"
+  },
+  "/ui-kit/components/dyte-chat-720": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-chat-7-b-2-c30"
+  },
+  "/ui-kit/components/dyte-chat-toggle-9cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-chat-toggle-867-8be"
+  },
+  "/ui-kit/components/dyte-clock-773": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-clock-052-218"
+  },
+  "/ui-kit/components/dyte-confirmation-modal-839": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-confirmation-modalf-23-693"
+  },
+  "/ui-kit/components/dyte-controlbar-7b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-controlbar-99-f-831"
+  },
+  "/ui-kit/components/dyte-controlbar-button-4b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-controlbar-button-07-d-635"
+  },
+  "/ui-kit/components/dyte-dialog-783": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-dialoge-1-e-52c"
+  },
+  "/ui-kit/components/dyte-dialog-manager-d30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-dialog-managere-7-c-e49"
+  },
+  "/ui-kit/components/dyte-emoji-picker-046": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-emoji-picker-6-cf-9e6"
+  },
+  "/ui-kit/components/dyte-ended-screen-ee1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-ended-screena-09-beb"
+  },
+  "/ui-kit/components/dyte-file-message-be2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-file-message-0-f-7-d0d"
+  },
+  "/ui-kit/components/dyte-fullscreen-toggle-30a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-fullscreen-toggle-187-749"
+  },
+  "/ui-kit/components/dyte-grid-859": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-grid-35-d-8d2"
+  },
+  "/ui-kit/components/dyte-grid-pagination-376": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-grid-paginationf-44-413"
+  },
+  "/ui-kit/components/dyte-header-217": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-headerb-3-d-332"
+  },
+  "/ui-kit/components/dyte-icon-04c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-icon-2-dc-e3c"
+  },
+  "/ui-kit/components/dyte-idle-screen-6d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-idle-screen-4-e-4-d0f"
+  },
+  "/ui-kit/components/dyte-image-message-148": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-image-message-861-831"
+  },
+  "/ui-kit/components/dyte-image-viewer-aa6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-image-viewer-5-f-8-32c"
+  },
+  "/ui-kit/components/dyte-leave-button-7a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-leave-button-54-f-47b"
+  },
+  "/ui-kit/components/dyte-leave-meeting-d53": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-leave-meeting-826-dda"
+  },
+  "/ui-kit/components/dyte-logo-346": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-logo-32-b-d48"
+  },
+  "/ui-kit/components/dyte-meeting-ac0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-meeting-1-f-3-18b"
+  },
+  "/ui-kit/components/dyte-meeting-title-979": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-meeting-title-289-f06"
+  },
+  "/ui-kit/components/dyte-menu-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-menu-355-7ee"
+  },
+  "/ui-kit/components/dyte-menu-item-4f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-menu-item-87-e-9f3"
+  },
+  "/ui-kit/components/dyte-menu-list-10f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-menu-listaec-8bc"
+  },
+  "/ui-kit/components/dyte-mic-toggle-95d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-mic-toggle-152-f8b"
+  },
+  "/ui-kit/components/dyte-mixed-grid-728": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-mixed-grid-8-da-d6f"
+  },
+  "/ui-kit/components/dyte-more-toggle-d77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-more-toggle-30-c-73c"
+  },
+  "/ui-kit/components/dyte-name-tag-273": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-name-tag-541-eb1"
+  },
+  "/ui-kit/components/dyte-network-indicator-0bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-network-indicatordec-c8f"
+  },
+  "/ui-kit/components/dyte-notification-661": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-notificationf-1-b-cf3"
+  },
+  "/ui-kit/components/dyte-notifications-548": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-notifications-6-a-7-a28"
+  },
+  "/ui-kit/components/dyte-overlay-modal-ac6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-overlay-modal-6-c-5-97c"
+  },
+  "/ui-kit/components/dyte-participant-f62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participantd-21-27b"
+  },
+  "/ui-kit/components/dyte-participant-count-8e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participant-count-157-ab6"
+  },
+  "/ui-kit/components/dyte-participant-tile-544": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participant-tile-46-c-631"
+  },
+  "/ui-kit/components/dyte-participants-894": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participants-1-f-3-7f1"
+  },
+  "/ui-kit/components/dyte-participants-audio-212": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participants-audio-724-a82"
+  },
+  "/ui-kit/components/dyte-participants-stage-list-c74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participants-stage-list-21-a-e56"
+  },
+  "/ui-kit/components/dyte-participants-toggle-30a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-participants-togglefc-3-54c"
+  },
+  "/ui-kit/components/dyte-permissions-message-c4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-permissions-message-9-aa-e11"
+  },
+  "/ui-kit/components/dyte-plugin-main-b7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-plugin-main-9-e-6-2c0"
+  },
+  "/ui-kit/components/dyte-plugins-745": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-pluginse-3-b-cd5"
+  },
+  "/ui-kit/components/dyte-plugins-toggle-243": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-plugins-toggleeca-db8"
+  },
+  "/ui-kit/components/dyte-poll-b5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-pollcf-7-28f"
+  },
+  "/ui-kit/components/dyte-poll-form-0e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-poll-formd-42-a74"
+  },
+  "/ui-kit/components/dyte-polls-f85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-polls-8-ea-860"
+  },
+  "/ui-kit/components/dyte-polls-toggle-0f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-polls-toggle-1-ae-413"
+  },
+  "/ui-kit/components/dyte-recording-indicator-d95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-recording-indicatord-5-e-8e7"
+  },
+  "/ui-kit/components/dyte-recording-toggle-93e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-recording-togglee-71-c21"
+  },
+  "/ui-kit/components/dyte-remote-access-manager-4d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-remote-access-managerc-13-eed"
+  },
+  "/ui-kit/components/dyte-screen-share-toggle-3d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-screen-share-toggled-31-fc8"
+  },
+  "/ui-kit/components/dyte-screenshare-view-064": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-screenshare-view-244-14e"
+  },
+  "/ui-kit/components/dyte-settings-238": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-settings-00-c-543"
+  },
+  "/ui-kit/components/dyte-settings-audio-a3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-settings-audio-4-ff-583"
+  },
+  "/ui-kit/components/dyte-settings-toggle-16b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-settings-togglefef-8e2"
+  },
+  "/ui-kit/components/dyte-settings-video-fab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-settings-videodf-7-e15"
+  },
+  "/ui-kit/components/dyte-setup-screen-a1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-setup-screenfe-1-69b"
+  },
+  "/ui-kit/components/dyte-sidebar-7d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-sidebard-20-643"
+  },
+  "/ui-kit/components/dyte-simple-grid-c7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-simple-grid-720-828"
+  },
+  "/ui-kit/components/dyte-spinner-c55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-spinner-823-9c6"
+  },
+  "/ui-kit/components/dyte-spotlight-grid-ac8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-spotlight-gridca-6-c65"
+  },
+  "/ui-kit/components/dyte-stage-067": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-stage-1-d-2-591"
+  },
+  "/ui-kit/components/dyte-switch-710": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-switchd-8-c-f80"
+  },
+  "/ui-kit/components/dyte-text-field-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-text-field-9-cc-317"
+  },
+  "/ui-kit/components/dyte-text-message-ae0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-text-messaged-69-fea"
+  },
+  "/ui-kit/components/dyte-tooltip-63f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-tooltip-0-c-3-703"
+  },
+  "/ui-kit/components/dyte-viewer-count-ac0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-components-dyte-viewer-count-6-e-3-5ea"
+  },
+  "/ui-kit/customizations/custom-iconpack-468": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-customizations-custom-iconpack-5-d-2-673"
+  },
+  "/ui-kit/customizations/custom-locale-6b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-customizations-custom-localeb-73-d27"
+  },
+  "/ui-kit/design-system-b41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-design-system-958-14a"
+  },
+  "/ui-kit/quickstart-8c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-quickstart-092-ad7"
+  },
+  "/ui-kit/reference-b5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-648-0f6"
+  },
+  "/ui-kit/reference/classes/DyteNotificationsAudio-470": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-classes-dyte-notifications-audio-290-768"
+  },
+  "/ui-kit/reference/interfaces/Notification-b40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-interfaces-notification-538-25b"
+  },
+  "/ui-kit/reference/interfaces/PollObject-3d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-interfaces-poll-object-42-c-0f3"
+  },
+  "/ui-kit/reference/interfaces/States-7e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-interfaces-states-1-f-8-060"
+  },
+  "/ui-kit/reference/interfaces/UIConfig-2c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-interfaces-ui-config-11-b-f88"
+  },
+  "/ui-kit/reference/interfaces/UserPreferences-15e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-reference-interfaces-user-preferences-29-b-e26"
+  },
+  "/ui-kit/release-notes-8cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-kit-release-notescc-5-ab6"
+  },
+  "/web-core-def": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---web-core-894-749"
+    }
+  },
+  "/web-core-6d4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---web-core-1-bd-9ac"
+  },
+  "/web-core/tags-65f": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---web-core-tagsd-46-f76"
+  },
+  "/web-core/tags/chat-3e7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-chatf-4-e-be6"
+  },
+  "/web-core/tags/create-ad2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-create-270-bac"
+  },
+  "/web-core/tags/local-user-d8f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-local-useraf-6-1d0"
+  },
+  "/web-core/tags/methods-b42": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-methods-15-e-e09"
+  },
+  "/web-core/tags/participant-c19": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-participantf-47-e9e"
+  },
+  "/web-core/tags/participants-65a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-participants-984-029"
+  },
+  "/web-core/tags/plugins-11e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-plugins-5-ae-98a"
+  },
+  "/web-core/tags/polls-c28": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-pollsbb-3-337"
+  },
+  "/web-core/tags/quickstart-652": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-quickstartd-8-c-7dc"
+  },
+  "/web-core/tags/recording-fbe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-recording-6-c-1-b34"
+  },
+  "/web-core/tags/releasenotes-12e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-releasenotes-70-b-8ef"
+  },
+  "/web-core/tags/results-a42": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-resultsc-2-e-428"
+  },
+  "/web-core/tags/room-metadata-777": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-room-metadataa-32-337"
+  },
+  "/web-core/tags/self-0cb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-selfaa-8-c3b"
+  },
+  "/web-core/tags/self-events-821": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-self-events-5-ea-ee4"
+  },
+  "/web-core/tags/setup-05c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-setupd-88-a1e"
+  },
+  "/web-core/tags/updates-01c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-updatesb-48-ef9"
+  },
+  "/web-core/tags/votes-ea3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-votes-17-d-90b"
+  },
+  "/web-core/tags/web-core-55f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---web-core-tags-web-coreda-5-974"
+  },
+  "/web-core-691": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/web-core-155": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-corea-36-41a"
+  },
+  "/web-core/advanced/advance-49d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-advanced-advance-5-e-9-62c"
+  },
+  "/web-core/chat/edit-chat-messages-777": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-chat-edit-chat-messages-8-d-6-41e"
+  },
+  "/web-core/chat/introduction-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-chat-introduction-2-a-2-c61"
+  },
+  "/web-core/chat/other-chat-functions-14f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-chat-other-chat-functions-7-de-8c6"
+  },
+  "/web-core/chat/receiving-chat-messages-acb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-chat-receiving-chat-messagesd-19-586"
+  },
+  "/web-core/chat/sending-a-chat-message-242": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-chat-sending-a-chat-messageca-4-8ac"
+  },
+  "/web-core/error-codes/error-code-bf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-error-codes-error-code-845-d52"
+  },
+  "/web-core/error-codes/error-code-zero-ten-98b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-error-codes-error-code-zero-ten-38-f-595"
+  },
+  "/web-core/Introduction-463": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-introductionbc-3-570"
+  },
+  "/web-core/livestreaming-d54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-livestreamingba-4-27a"
+  },
+  "/web-core/local-user/events-be2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-local-user-eventsc-32-d9d"
+  },
+  "/web-core/local-user/extras-7ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-local-user-extrasd-73-e8a"
+  },
+  "/web-core/local-user/introduction-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-local-user-introduction-8-e-7-1d8"
+  },
+  "/web-core/local-user/manage-media-devices-c3e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-local-user-manage-media-devices-3-f-0-f0a"
+  },
+  "/web-core/local-user/media-permission-errors-18d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-local-user-media-permission-errorsf-9-a-76a"
+  },
+  "/web-core/participants-869": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-participantsaa-2-0b7"
+  },
+  "/web-core/participants/events-c91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-participants-events-346-163"
+  },
+  "/web-core/participants/participant-object-e1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-participants-participant-objectcc-1-1b3"
+  },
+  "/web-core/participants/permissions-cfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-participants-permissionsad-5-65e"
+  },
+  "/web-core/participants/pip-772": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-participants-pip-87-e-466"
+  },
+  "/web-core/plugins/disable-plugin-445": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-plugins-disable-plugin-34-e-63f"
+  },
+  "/web-core/plugins/enable-plugin-ed2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-plugins-enable-plugin-348-a3d"
+  },
+  "/web-core/plugins/extra-e02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-plugins-extra-4-ac-2cf"
+  },
+  "/web-core/plugins/introduction-709": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-plugins-introduction-2-f-0-3fb"
+  },
+  "/web-core/polls/creating-a-poll-452": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-polls-creating-a-poll-050-f22"
+  },
+  "/web-core/polls/introduction-1a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-polls-introduction-6-f-8-b97"
+  },
+  "/web-core/polls/other-poll-functions-fe4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-polls-other-poll-functionsabb-2fa"
+  },
+  "/web-core/polls/voting-on-a-poll-9f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-polls-voting-on-a-poll-0-f-8-9e3"
+  },
+  "/web-core/pre-call/handling-permissions-a48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-pre-call-handling-permissions-740-723"
+  },
+  "/web-core/pre-call/media-preview-f27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-pre-call-media-preview-049-207"
+  },
+  "/web-core/pre-call/meeting-meta-cb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-pre-call-meeting-meta-8-ca-a66"
+  },
+  "/web-core/pre-call/virtual-bg-05d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-pre-call-virtual-bg-095-ce9"
+  },
+  "/web-core/pre-call/waiting-room-4fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-pre-call-waiting-roomd-98-28c"
+  },
+  "/web-core/recording-248": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-recordinge-01-7aa"
+  },
+  "/web-core/reference/DyteAi-9d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-ai-3-ba-070"
+  },
+  "/web-core/reference/DyteChat-554": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-chat-43-c-da5"
+  },
+  "/web-core/reference/DyteClient-9ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-clientb-7-b-282"
+  },
+  "/web-core/reference/DyteConnectedMeetings-73c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-connected-meetings-23-f-f3d"
+  },
+  "/web-core/reference/DyteLivestream-934": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-livestream-1-e-1-2c1"
+  },
+  "/web-core/reference/DyteMeta-2af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-meta-07-b-436"
+  },
+  "/web-core/reference/DyteParticipant-bb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-participant-803-4b8"
+  },
+  "/web-core/reference/DyteParticipantMap-aba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-participant-mapf-98-79f"
+  },
+  "/web-core/reference/DyteParticipants-7e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-participants-1-e-3-27a"
+  },
+  "/web-core/reference/DytePermissionsPreset-3a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-permissions-preset-7-fb-f4e"
+  },
+  "/web-core/reference/DytePlugin-81a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-plugin-51-a-2a4"
+  },
+  "/web-core/reference/DytePluginMap-32b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-plugin-map-2-fc-b64"
+  },
+  "/web-core/reference/DytePlugins-498": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-plugins-26-d-f2e"
+  },
+  "/web-core/reference/DytePolls-6e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-polls-0-f-0-b1d"
+  },
+  "/web-core/reference/DyteRecording-02d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-recording-5-b-5-296"
+  },
+  "/web-core/reference/DyteSelf-fe2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-selfe-38-61f"
+  },
+  "/web-core/reference/DyteStage-f35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-stage-178-7a1"
+  },
+  "/web-core/reference/DyteThemePreset-052": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-reference-dyte-theme-preset-97-e-ba8"
+  },
+  "/web-core/release-notes-8d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-release-notes-00-e-c50"
+  },
+  "/web-core/room-metadata-1bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-room-metadataadb-d4a"
+  },
+  "/web-core/stage-3cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-stage-723-94c"
+  },
+  "/web-core/upgrade-8d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-core-upgrade-6-b-4-355"
+  },
+  "/-070": {
+    "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
+    "__context": {
+      "plugin": "plugin---apia-74-5c6"
+    },
+    "config": "config---api-5-e-9-841"
+  }
+}

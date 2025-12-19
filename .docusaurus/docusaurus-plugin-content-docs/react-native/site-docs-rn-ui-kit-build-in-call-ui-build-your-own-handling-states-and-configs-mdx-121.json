@@ -1,0 +1,29 @@
+{
+  "id": "build-in-call-ui/build-your-own/handling-states-and-configs",
+  "title": "Handling States and Configs",
+  "description": "Source Code//github.com/dyte-io/react-native-samples/tree/main/samples/createyourown_ui",
+  "source": "@site/docs/rn-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs.mdx",
+  "sourceDirName": "build-in-call-ui/build-your-own",
+  "slug": "/build-in-call-ui/build-your-own/handling-states-and-configs",
+  "permalink": "/react-native/build-in-call-ui/build-your-own/handling-states-and-configs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Handling States and Configs",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteMeeting",
+    "permalink": "/react-native/build-in-call-ui/default-meeting-ui"
+  },
+  "next": {
+    "title": "States Based UI Split",
+    "permalink": "/react-native/build-in-call-ui/build-your-own/states based UI Split"
+  }
+}

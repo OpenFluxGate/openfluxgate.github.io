@@ -1,0 +1,46 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "This quickstart shows how to use Dyte's core SDKs to add live video and audio to",
+  "source": "@site/docs/android-core/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/android-core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/quickstart.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "inline": true,
+      "label": "quickstart",
+      "permalink": "/android-core/tags/quickstart"
+    },
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/android-core/tags/setup"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "tags": [
+      "android-core",
+      "quickstart",
+      "setup"
+    ],
+    "slug": "/",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/android-core/upgrade-v2/introduction"
+  }
+}

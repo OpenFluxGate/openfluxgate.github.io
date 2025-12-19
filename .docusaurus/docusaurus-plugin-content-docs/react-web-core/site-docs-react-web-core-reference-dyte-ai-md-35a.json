@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteAi",
+  "title": "DyteAi",
+  "description": "This module consists of the ai object which is used to interface with Dyte's AI features.",
+  "source": "@site/docs/react-web-core/reference/DyteAi.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteAi",
+  "permalink": "/react-web-core/reference/DyteAi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/reference/DyteAi.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16,
+    "web_core_version": "1.32.1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteThemePreset",
+    "permalink": "/react-web-core/reference/DyteThemePreset"
+  },
+  "next": {
+    "title": "DyteRemote",
+    "permalink": "/react-web-core/reference/DyteRemote"
+  }
+}

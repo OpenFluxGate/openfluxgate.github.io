@@ -1,0 +1,57 @@
+{
+  "id": "participants/waitlisted-participants",
+  "title": "Waitlisted Participants",
+  "description": "Events, methods and data to manage waiting room participants.",
+  "source": "@site/docs/ios-core/participants/waitlisted-participants.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/waitlisted-participants",
+  "permalink": "/ios-core/participants/waitlisted-participants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/participants/waitlisted-participants.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "participants",
+      "permalink": "/ios-core/tags/participants"
+    },
+    {
+      "inline": true,
+      "label": "waitlisted",
+      "permalink": "/ios-core/tags/waitlisted"
+    },
+    {
+      "inline": true,
+      "label": "waiting room",
+      "permalink": "/ios-core/tags/waiting-room"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Waitlisted Participants",
+    "description": "Events, methods and data to manage waiting room participants.",
+    "sidebar_position": 4,
+    "tags": [
+      "ios-core",
+      "participants",
+      "waitlisted",
+      "waiting room"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Events",
+    "permalink": "/ios-core/participants/events"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/chat/introduction"
+  }
+}

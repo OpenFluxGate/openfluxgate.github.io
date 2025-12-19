@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-webinar-stage-toggle",
+  "title": "DyteWebinarStageToggle",
+  "description": "Learn how to use and customize the DyteWebinarStageToggle component in Dyte's React Native UI Kit with our detailed documentation.",
+  "source": "@site/docs/rn-ui-kit/components/dyte-webinar-stage-toggle.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-webinar-stage-toggle",
+  "permalink": "/react-native/components/dyte-webinar-stage-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/components/dyte-webinar-stage-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteWebinarStageToggle component in Dyte's React Native UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteWaitingScreen",
+    "permalink": "/react-native/components/dyte-waiting-screen"
+  },
+  "next": {
+    "title": "Customize Meeting Icons",
+    "permalink": "/react-native/customizations/custom-iconpack"
+  }
+}

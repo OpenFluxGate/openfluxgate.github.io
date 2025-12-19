@@ -1,0 +1,30 @@
+{
+  "id": "meeting-locale",
+  "title": "Custom Meeting Locale",
+  "description": "Beginner's guide to Dyte's Flutter UI Kit.",
+  "source": "@site/docs/flutter/meeting-locale.mdx",
+  "sourceDirName": ".",
+  "slug": "/meeting-locale",
+  "permalink": "/flutter/meeting-locale",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/meeting-locale.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Custom Meeting Locale",
+    "description": "Beginner's guide to Dyte's Flutter UI Kit.",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSetupScreen",
+    "permalink": "/flutter/Components/dyte-setup-screen-component"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/flutter/release-notes"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+  "title": "Build Stage UI using DyteGrid",
+  "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+  "source": "@site/docs/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid.mdx",
+  "sourceDirName": "build-in-call-ui/build-your-own",
+  "slug": "/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+  "permalink": "/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Build Stage UI using DyteGrid",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customize Control Bar",
+    "permalink": "/react-ui-kit/build-in-call-ui/build-your-own/customize-control-bar"
+  },
+  "next": {
+    "title": "Add custom sidebar",
+    "permalink": "/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar"
+  }
+}

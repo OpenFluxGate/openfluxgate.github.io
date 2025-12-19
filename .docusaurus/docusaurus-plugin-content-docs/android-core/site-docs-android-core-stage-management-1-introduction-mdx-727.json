@@ -1,0 +1,45 @@
+{
+  "id": "stage-management/introduction",
+  "title": "Introduction",
+  "description": "Stage management in Dyte meetings.",
+  "source": "@site/docs/android-core/stage-management/1-introduction.mdx",
+  "sourceDirName": "stage-management",
+  "slug": "/stage-management/introduction",
+  "permalink": "/android-core/stage-management/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/stage-management/1-introduction.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "inline": true,
+      "label": "stage",
+      "permalink": "/android-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Stage management in Dyte meetings.",
+    "sidebar_position": 1,
+    "tags": [
+      "android-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recording",
+    "permalink": "/android-core/recording"
+  },
+  "next": {
+    "title": "Stage Host Controls",
+    "permalink": "/android-core/stage-management/host-controls"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "livestreaming",
+  "title": "Livestreaming",
+  "description": "- Livestreaming is often used for events, such as concerts, conferences, and sports games, as well as for online classes, gaming, and social media platforms.",
+  "source": "@site/docs/ios-core/livestreaming.mdx",
+  "sourceDirName": ".",
+  "slug": "/livestreaming",
+  "permalink": "/ios-core/livestreaming",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/livestreaming.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Livestreaming",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stage Access for Viewers",
+    "permalink": "/ios-core/stage-management/viewer-participants"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/polls/introduction"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stage-management/host-controls",
+  "title": "Stage Host Controls",
+  "description": "Stage management APIs for Host in Dyte meetings.",
+  "source": "@site/docs/flutter-core/stage-management/host-controls.mdx",
+  "sourceDirName": "stage-management",
+  "slug": "/stage-management/host-controls",
+  "permalink": "/flutter-core/stage-management/host-controls",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/stage-management/host-controls.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "inline": true,
+      "label": "stage",
+      "permalink": "/flutter-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Stage Host Controls",
+    "description": "Stage management APIs for Host in Dyte meetings.",
+    "sidebar_position": 2,
+    "tags": [
+      "flutter-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/flutter-core/stage-management/introduction"
+  },
+  "next": {
+    "title": "Stage Access for Viewers",
+    "permalink": "/flutter-core/stage-management/viewer-participants"
+  }
+}

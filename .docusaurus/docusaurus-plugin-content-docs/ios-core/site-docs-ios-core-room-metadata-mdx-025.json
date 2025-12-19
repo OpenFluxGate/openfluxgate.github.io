@@ -1,0 +1,45 @@
+{
+  "id": "room-metadata",
+  "title": "Room Metadata",
+  "description": "Learn about managing room metadata in your iOS application using Dyte Docs.",
+  "source": "@site/docs/ios-core/room-metadata.mdx",
+  "sourceDirName": ".",
+  "slug": "/room-metadata",
+  "permalink": "/ios-core/room-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/room-metadata.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "room-metadata",
+      "permalink": "/ios-core/tags/room-metadata"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Room Metadata",
+    "description": "Learn about managing room metadata in your iOS application using Dyte Docs.",
+    "sidebar_position": 6,
+    "tags": [
+      "ios-core",
+      "room-metadata"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Receiving chat messages",
+    "permalink": "/ios-core/chat/receiving-chat-messages"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/plugins/introduction"
+  }
+}

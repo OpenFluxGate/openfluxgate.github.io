@@ -1,0 +1,29 @@
+{
+  "id": "error-codes/error-code",
+  "title": "Debug System Error Codes",
+  "description": "Web Core Debug System Error Codes",
+  "source": "@site/docs/web-core/error-codes/error-code.mdx",
+  "sourceDirName": "error-codes",
+  "slug": "/error-codes/error-code",
+  "permalink": "/web-core/error-codes/error-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/error-codes/error-code.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Debug System Error Codes",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting Metadata",
+    "permalink": "/web-core/room-metadata"
+  },
+  "next": {
+    "title": "System Error Codes (0-20)",
+    "permalink": "/web-core/error-codes/error-code-zero-ten"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteParticipantMap",
+  "title": "DyteParticipantMap",
+  "description": "The following objects are DyteParticipantMap objects",
+  "source": "@site/docs/rn-core/reference/DyteParticipantMap.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteParticipantMap",
+  "permalink": "/rn-core/reference/DyteParticipantMap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/reference/DyteParticipantMap.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "web_core_version": "1.32.1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteParticipants",
+    "permalink": "/rn-core/reference/DyteParticipants"
+  },
+  "next": {
+    "title": "DyteParticipant",
+    "permalink": "/rn-core/reference/DyteParticipant"
+  }
+}

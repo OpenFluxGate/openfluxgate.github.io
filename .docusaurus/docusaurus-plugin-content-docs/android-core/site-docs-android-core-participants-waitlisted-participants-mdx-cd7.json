@@ -1,0 +1,57 @@
+{
+  "id": "participants/waitlisted-participants",
+  "title": "Waitlisted Participants",
+  "description": "Events, methods and data to manage waiting room participants.",
+  "source": "@site/docs/android-core/participants/waitlisted-participants.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/waitlisted-participants",
+  "permalink": "/android-core/participants/waitlisted-participants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/participants/waitlisted-participants.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "inline": true,
+      "label": "participants",
+      "permalink": "/android-core/tags/participants"
+    },
+    {
+      "inline": true,
+      "label": "waitlisted",
+      "permalink": "/android-core/tags/waitlisted"
+    },
+    {
+      "inline": true,
+      "label": "waiting room",
+      "permalink": "/android-core/tags/waiting-room"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Waitlisted Participants",
+    "description": "Events, methods and data to manage waiting room participants.",
+    "sidebar_position": 4,
+    "tags": [
+      "android-core",
+      "participants",
+      "waitlisted",
+      "waiting room"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Events",
+    "permalink": "/android-core/participants/events"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/android-core/chat/introduction"
+  }
+}

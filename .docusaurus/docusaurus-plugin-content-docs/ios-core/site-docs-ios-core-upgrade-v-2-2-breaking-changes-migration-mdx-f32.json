@@ -1,0 +1,44 @@
+{
+  "id": "upgrade-v2/breaking-changes-migration",
+  "title": "Breaking Changes and Migration Guide",
+  "description": "This section provides details about the additional breaking changes made in Dyte Core SDK v2 and provides migration guidance.",
+  "source": "@site/docs/ios-core/upgrade-v2/2-breaking-changes-migration.mdx",
+  "sourceDirName": "upgrade-v2",
+  "slug": "/upgrade-v2/breaking-changes-migration",
+  "permalink": "/ios-core/upgrade-v2/breaking-changes-migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/upgrade-v2/2-breaking-changes-migration.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "iOS-core",
+      "permalink": "/ios-core/tags/i-os-core"
+    },
+    {
+      "inline": true,
+      "label": "v2",
+      "permalink": "/ios-core/tags/v-2"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Breaking Changes and Migration Guide",
+    "sidebar_position": 2,
+    "tags": [
+      "iOS-core",
+      "v2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/ios-core/upgrade-v2/introduction"
+  },
+  "next": {
+    "title": "Media Preview",
+    "permalink": "/ios-core/pre-call/media-preview"
+  }
+}

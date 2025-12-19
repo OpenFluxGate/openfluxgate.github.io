@@ -1,0 +1,29 @@
+{
+  "id": "display-videos",
+  "title": "Render participant videos",
+  "description": "To display the videos of all participants you need to show on the screen, you",
+  "source": "@site/docs/rn-ui-kit/display-videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/basics/display-videos",
+  "permalink": "/react-native/basics/display-videos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/display-videos.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "slug": "/basics/display-videos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add custom sidebar",
+    "permalink": "/react-native/build-in-call-ui/build-your-own/add-custom-sidebar"
+  },
+  "next": {
+    "title": "Gallery",
+    "permalink": "/react-native/components"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stage-management/introduction",
+  "title": "Introduction",
+  "description": "Stage management in Dyte meetings.",
+  "source": "@site/docs/flutter-core/stage-management/introduction.mdx",
+  "sourceDirName": "stage-management",
+  "slug": "/stage-management/introduction",
+  "permalink": "/flutter-core/stage-management/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/stage-management/introduction.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "inline": true,
+      "label": "stage",
+      "permalink": "/flutter-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Stage management in Dyte meetings.",
+    "sidebar_position": 1,
+    "tags": [
+      "flutter-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voting on a poll",
+    "permalink": "/flutter-core/polls/voting-on-a-poll"
+  },
+  "next": {
+    "title": "Stage Host Controls",
+    "permalink": "/flutter-core/stage-management/host-controls"
+  }
+}

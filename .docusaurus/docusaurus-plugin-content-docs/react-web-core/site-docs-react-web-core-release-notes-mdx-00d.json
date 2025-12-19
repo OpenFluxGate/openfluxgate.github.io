@@ -1,0 +1,40 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "Dyte SDKs are now in maintenance mode and will not receive any new features or bug fixes. To migrate to Cloudflare RealtimeKit SDKs, see the migration guide.",
+  "source": "@site/docs/react-web-core/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/react-web-core/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/release-notes.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "web-core",
+      "permalink": "/react-web-core/tags/web-core"
+    },
+    {
+      "inline": true,
+      "label": "releasenotes",
+      "permalink": "/react-web-core/tags/releasenotes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "title": "Release Notes",
+    "sidebar_position": 101,
+    "tags": [
+      "web-core",
+      "releasenotes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteRecording",
+    "permalink": "/react-web-core/reference/DyteRecording"
+  }
+}

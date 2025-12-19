@@ -1,0 +1,45 @@
+{
+  "id": "chat/receiving-chat-messages",
+  "title": "Receiving chat messages",
+  "description": "\"Discover how to implement the functionality to receive chat messages in your iOS app using Dyte",
+  "source": "@site/docs/ios-core/chat/receiving-chat-messages.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/receiving-chat-messages",
+  "permalink": "/ios-core/chat/receiving-chat-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/chat/receiving-chat-messages.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "chat",
+      "permalink": "/ios-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Receiving chat messages",
+    "description": "\"Discover how to implement the functionality to receive chat messages in your iOS app using Dyte",
+    "sidebar_position": 3,
+    "tags": [
+      "ios-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sending a chat message",
+    "permalink": "/ios-core/chat/sending-a-chat-message"
+  },
+  "next": {
+    "title": "Room Metadata",
+    "permalink": "/ios-core/room-metadata"
+  }
+}

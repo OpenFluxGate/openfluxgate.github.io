@@ -1,0 +1,45 @@
+{
+  "id": "chat/introduction",
+  "title": "Introduction",
+  "description": "Learn the basics of integrating Dyte's chat functionality into your iOS application – a step towards immersive real-time communication.",
+  "source": "@site/docs/ios-core/chat/introduction.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/introduction",
+  "permalink": "/ios-core/chat/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/chat/introduction.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "inline": true,
+      "label": "chat",
+      "permalink": "/ios-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Learn the basics of integrating Dyte's chat functionality into your iOS application – a step towards immersive real-time communication.",
+    "sidebar_position": 1,
+    "tags": [
+      "ios-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Waitlisted Participants",
+    "permalink": "/ios-core/participants/waitlisted-participants"
+  },
+  "next": {
+    "title": "Sending a chat message",
+    "permalink": "/ios-core/chat/sending-a-chat-message"
+  }
+}

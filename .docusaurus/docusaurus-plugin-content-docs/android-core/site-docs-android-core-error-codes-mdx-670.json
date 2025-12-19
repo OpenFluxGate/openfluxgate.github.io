@@ -1,0 +1,29 @@
+{
+  "id": "error-codes",
+  "title": "System Error Codes",
+  "description": "This information is intended for developers debugging or troubleshooting Dyte's mobile core system errors.",
+  "source": "@site/docs/android-core/error-codes.mdx",
+  "sourceDirName": ".",
+  "slug": "/error-codes",
+  "permalink": "/android-core/error-codes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/error-codes.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "title": "System Error Codes",
+    "sidebar_position": 99
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Metadata",
+    "permalink": "/android-core/room-metadata"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/android-core/release-notes"
+  }
+}

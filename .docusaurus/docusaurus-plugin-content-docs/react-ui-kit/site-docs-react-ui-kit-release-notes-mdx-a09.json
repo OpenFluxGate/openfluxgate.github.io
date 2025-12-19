@@ -1,0 +1,39 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "Dyte SDKs are now in maintenance mode and will not receive any new features or bug fixes. To migrate to Cloudflare RealtimeKit SDKs, see the React migration guide.",
+  "source": "@site/docs/react-ui-kit/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/react-ui-kit/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/release-notes.mdx",
+  "tags": [
+    {
+      "inline": true,
+      "label": "releasenotes",
+      "permalink": "/react-ui-kit/tags/releasenotes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "title": "Release Notes",
+    "sidebar_position": 101,
+    "sidebar_class_name": "releaseSidebarHeading",
+    "tags": [
+      "releasenotes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customize Meeting Locale",
+    "permalink": "/react-ui-kit/customizations/custom-locale"
+  },
+  "next": {
+    "title": "Reference",
+    "permalink": "/react-ui-kit/reference/"
+  }
+}
