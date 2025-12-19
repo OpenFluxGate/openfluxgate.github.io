@@ -4,10 +4,10 @@
     <img src="https://assets.dyte.io/logo-outlined.png" alt="Logo" width="120">
   </a>
 
-  <h2 align="center">Dyte Docs</h3>
+  <h2 align="center">fluxgate Docs (Not yet modified, just clone)</h3>
 
   <p align="center">
-    Dyte's documentation portal, built with Docusaurus.
+    fluxgate documentation portal, built with Docusaurus.
     <br />
     <a href="https://docs.dyte.io"><strong>Explore the docs »</strong></a>
     <br />
