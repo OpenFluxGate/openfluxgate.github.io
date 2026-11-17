@@ -25,6 +25,8 @@ export const pages = [
 ]},
 {slug:'operations',label:'운영',eyebrow:'OPERATE DELIBERATELY',title:'실패할 때의 동작까지 설계.',intro:'정상 응답보다 장애 경로와 복구 절차가 운영 품질을 결정합니다.',sections:[
 {title:'장애 모드를 명시',text:'Redis 지연·연결 실패, MongoDB 조회 실패, 정책 누락, 관리 API 장애를 각각 테스트하세요. fail-open은 가용성, fail-closed는 접근 제한에 영향을 줍니다. 어느 쪽도 모든 서비스의 정답은 아닙니다.'},
+{title:'공용 Redis 사용과 SCAN 비용',text:'전용 Redis가 필수는 아닙니다. 공용 Redis에서는 키 namespace, ACL, TTL, 메모리·연결 예산을 분리하고 서비스 간 영향을 측정하세요. 0.3.8의 SCAN은 KEYS의 장시간 blocking을 줄이는 변경이지 전체 키 탐색 비용을 없애는 변경이 아닙니다. 여러 Pod가 같은 초기화를 수행하면 중복 탐색이 늘고 Pub/Sub 수신 경로의 동기 탐색은 후속 알림을 지연시킬 수 있습니다. 규칙 변경이 드물어도 대규모 키 공간에서 부하를 검증하세요.'},
+{title:'0.5.0 성능 개선은 검증 중',text:'규칙 revision별 버킷을 사용해 변경 시 전역 탐색을 피하는 방식은 미출시 후보입니다. 기존 reset 경로가 자동으로 바뀌는 것으로 가정하지 마세요. 요청별 최신 정책 조회는 MongoDB 부하와 장애 의존성을 늘릴 수 있으며, 이전 revision 접근 차단과 TTL 이후 동작까지 검증해야 합니다. 공용 Redis 운영 용량이나 지연 SLA를 보장하는 결과는 아직 아닙니다.',links:[['개발 중인 개선 PR #79','https://github.com/OpenFluxGate/fluxgate/pull/79']]},
 {title:'배포 전 체크리스트',list:['실행 중인 버전과 아티팩트 checksum 기록','백업 생성뿐 아니라 복원 가능 여부 확인','현재 인덱스·TTL·DB writer 목록 확인','health check와 실제 제한 요청을 함께 검증','이전 아티팩트 및 설정을 보존하고 복귀 절차 리허설','SSH·포트·ExecStart·권한을 실제 대상에서 확인']},
 {title:'데이터 보존',text:'롤백용 바이너리만 남긴다고 데이터가 복원되지는 않습니다. 새 버전이 변경한 필드나 인덱스는 이전 버전과 호환되지 않을 수 있습니다. 삭제된 TTL 데이터와 구버전 writer가 제거한 ACL은 코드 롤백으로 되살아나지 않습니다.',links:[['업그레이드 및 롤백','/docs/upgrade/']]},
 {title:'관측',text:'허용/거절 수, 판정 latency, 백엔드 오류, 정책 버전 및 reset 이력을 함께 보세요. 지표 라벨에 원문 API key나 무제한 사용자 식별자를 넣지 마세요. 벤치마크 수치는 환경·부하·버전이 명시되지 않으면 운영 용량 근거가 아닙니다.'}
@@ -32,6 +34,7 @@ export const pages = [
 {slug:'upgrade',label:'업그레이드 / 롤백',eyebrow:'DATA COMPATIBILITY',title:'업그레이드 전에, writer부터 확인.',intro:'0.3.x와 0.5.0의 혼용은 단순한 바이너리 교체 문제가 아닙니다.',sections:[
 {title:'0.3.7 writer의 ACL 손실',text:'격리 MongoDB 7.0.26의 합성 데이터 실험에서 0.3.7 writer가 새 문서를 저장할 때 deniedIps, deniedKeys, aclUpdatedAt 필드가 사라지는 동작을 확인했습니다. 구버전 서비스가 읽을 수 있다는 사실은 안전하게 쓸 수 있다는 뜻이 아닙니다.'},
 {title:'중복 ID와 인덱스',text:'새 구조에서 ruleSetId가 다른 문서에 같은 id를 허용하면 구버전 id 단독 쓰기·삭제가 모호해질 수 있습니다. 기존 unique id_1 인덱스는 새 패턴과 충돌할 수 있습니다. 운영 인덱스를 자동으로 삭제하거나 변경하지 마세요.'},
+{title:'Redis 카운터 이관과 혼합 버전',text:'0.3.x와 0.5.0 개발 트랙의 Redis 키 구조와 시간 단위가 다를 수 있습니다. 서로 다른 키를 쓰는 클라이언트가 동시에 요청을 처리하면 동일 정책의 quota가 나뉘어 제한을 초과할 수 있습니다. 단순 키 이름 변경은 안전한 이관 방법이 아닙니다. 구버전 writer를 차단하고 카운터·시간 단위·TTL·롤백을 함께 검증하기 전에는 무중단 호환이나 자동 이관을 가정하지 마세요.'},
 {title:'안전한 순서 / rollback',list:['모든 writer의 정확한 버전과 대상 DB 파악','복원 시험을 포함한 백업 검증','합성 또는 승인된 복제 환경에서 인덱스·정책 검증','구버전 writer를 분리한 뒤 승인된 이관 수행','변경 후 ACL·복합 식별자·카운터·TTL 검증','이전 버전 복귀 전 데이터 호환성 재평가']},
 {title:'검증의 경계',text:'위 결과는 0.3.7 및 0.5.0 개발 소스와 합성 데이터에 대한 결과입니다. 운영 데이터, 운영 이전 아티팩트와의 동일성, 모든 UI/API 혼합 조합, 전체 signed PubSub 경로는 검증 완료를 주장하지 않습니다. 자동 마이그레이션 도구나 백업 보장도 아닙니다.',links:[['고정 커밋의 상세 검증 가이드','https://github.com/OpenFluxGate/fluxgate-studio/blob/1419b4cc43035ebdfbbdc1118c7a1193ac33aa7b/deploy/UPGRADE-ROLLBACK.md']]}
 ]},
@@ -44,7 +47,7 @@ export const pages = [
 {slug:'releases',label:'버전 상태',eyebrow:'RELEASE STATUS',title:'소스, 발행, 배포는 다릅니다.',intro:'이 포털의 문서 갱신은 소프트웨어 출시나 운영 배포를 의미하지 않습니다.',sections:[
 {title:'0.5.0 · 개발 및 검증 중',text:'이 문서 작성 기준 0.5.0은 미출시 트랙입니다. Spring Boot 2·3 지원은 호환성·의존성·보안 검증 중입니다. 배포 가능 또는 취약점 없음으로 해석하지 마세요.'},
 {title:'0.3.8 · Redis 모듈 발행',text:'2026-11-17에 fluxgate-redis-ratelimiter 0.3.8이 발행됐습니다. 내장 standalone/cluster provider의 KEYS를 SCAN으로 교체하는 유지보수 릴리스입니다. Core, parent POM, Spring Boot starter는 0.3.7을 유지합니다. 전체 FluxGate가 0.3.8로 바뀐 것이 아니며 0.5.0 변경도 포함하지 않습니다.',links:[['0.3.8 공식 릴리스 및 적용 방법','https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.3.8']]},
-{title:'0.3.8 적용 시 주의',text:'Redis ACL에 SCAN 권한이 필요하며 KEYS fallback은 없습니다. SCAN은 원자적 snapshot이 아니고 목록 반환 API는 여전히 메모리를 사용합니다. 0.3.7로 롤백하면 기존 blocking KEYS 위험도 돌아옵니다. 이 패치는 포괄적인 보안 업데이트가 아니므로 기존 의존성의 별도 보안 평가가 필요합니다.'},
+{title:'0.3.8 적용 시 주의',text:'내장 provider는 Redis ACL에 SCAN 권한이 필요하며 KEYS fallback은 없습니다. 사용자 정의 provider나 애플리케이션 코드까지 KEYS가 제거됐다는 뜻은 아닙니다. SCAN은 원자적 snapshot이 아니고 목록 반환 API는 여전히 메모리를 사용합니다. 0.3.7로 롤백하면 기존 blocking KEYS 위험도 돌아옵니다. 이 패치는 포괄적인 보안 업데이트가 아니므로 기존 의존성의 별도 보안 평가가 필요합니다.'},
 {title:'0.3.x · 기존 사용 환경',text:'기존 버전 사용자는 정확한 패치 버전과 발행된 아티팩트를 확인하세요. 0.3.7 호환성 실험 결과를 모든 0.3.x 버전에 일반화하지 않습니다. 별도로 진행되는 패치 작업의 발행 여부는 릴리스 기록에서 확인해야 합니다.'},
 {title:'근거 확인',text:'Git tag, Maven 아티팩트, CI commit 및 운영 실행 파일은 각각 확인합니다. README의 버전 문자열이나 CI 성공 하나만으로 나머지를 추정하지 마세요.',links:[['Core releases','https://github.com/OpenFluxGate/fluxgate/releases'],['Core CI','https://github.com/OpenFluxGate/fluxgate/actions'],['Studio releases','https://github.com/OpenFluxGate/fluxgate-studio/releases']]}
 ]}
