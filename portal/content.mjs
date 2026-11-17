@@ -42,7 +42,9 @@ export const pages = [
 {title:'Configuration reference',text:'프로퍼티 기본값과 API signature는 선택한 릴리스의 소스를 기준으로 확인하세요. 개발 트랙과 발행 버전이 다를 수 있어 여기에서는 검증되지 않은 전체 설정표를 복제하지 않습니다.',links:[['Core 공식 소스','https://github.com/OpenFluxGate/fluxgate'],['Studio 공식 소스','https://github.com/OpenFluxGate/fluxgate-studio']]}
 ]},
 {slug:'releases',label:'버전 상태',eyebrow:'RELEASE STATUS',title:'소스, 발행, 배포는 다릅니다.',intro:'이 포털의 문서 갱신은 소프트웨어 출시나 운영 배포를 의미하지 않습니다.',sections:[
-{title:'0.5.0 · 개발 및 검증 중',text:'이 문서 작성 기준 0.5.0은 미출시 트랙입니다. Spring Boot 2 지원도 목표에 포함되지만 호환성·의존성·보안 검증은 진행 중입니다. 배포 가능 또는 취약점 없음으로 해석하지 마세요.'},
+{title:'0.5.0 · 개발 및 검증 중',text:'이 문서 작성 기준 0.5.0은 미출시 트랙입니다. Spring Boot 2·3 지원은 호환성·의존성·보안 검증 중입니다. 배포 가능 또는 취약점 없음으로 해석하지 마세요.'},
+{title:'0.3.8 · Redis 모듈 발행',text:'2026-11-17에 fluxgate-redis-ratelimiter 0.3.8이 발행됐습니다. 내장 standalone/cluster provider의 KEYS를 SCAN으로 교체하는 유지보수 릴리스입니다. Core, parent POM, Spring Boot starter는 0.3.7을 유지합니다. 전체 FluxGate가 0.3.8로 바뀐 것이 아니며 0.5.0 변경도 포함하지 않습니다.',links:[['0.3.8 공식 릴리스 및 적용 방법','https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.3.8']]},
+{title:'0.3.8 적용 시 주의',text:'Redis ACL에 SCAN 권한이 필요하며 KEYS fallback은 없습니다. SCAN은 원자적 snapshot이 아니고 목록 반환 API는 여전히 메모리를 사용합니다. 0.3.7로 롤백하면 기존 blocking KEYS 위험도 돌아옵니다. 이 패치는 포괄적인 보안 업데이트가 아니므로 기존 의존성의 별도 보안 평가가 필요합니다.'},
 {title:'0.3.x · 기존 사용 환경',text:'기존 버전 사용자는 정확한 패치 버전과 발행된 아티팩트를 확인하세요. 0.3.7 호환성 실험 결과를 모든 0.3.x 버전에 일반화하지 않습니다. 별도로 진행되는 패치 작업의 발행 여부는 릴리스 기록에서 확인해야 합니다.'},
 {title:'근거 확인',text:'Git tag, Maven 아티팩트, CI commit 및 운영 실행 파일은 각각 확인합니다. README의 버전 문자열이나 CI 성공 하나만으로 나머지를 추정하지 마세요.',links:[['Core releases','https://github.com/OpenFluxGate/fluxgate/releases'],['Core CI','https://github.com/OpenFluxGate/fluxgate/actions'],['Studio releases','https://github.com/OpenFluxGate/fluxgate-studio/releases']]}
 ]}
