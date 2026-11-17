@@ -1,0 +1,27 @@
+name: Portal PR checks
+on:
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: portal-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm run build
+      - run: npm test
+      - name: Save review artifact (no deployment)
+        uses: actions/upload-artifact@v4
+        with:
+          name: fluxgate-portal-preview
+          path: build/
+          retention-days: 14
