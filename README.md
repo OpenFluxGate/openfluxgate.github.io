@@ -1,6 +1,16 @@
 # OpenFluxGate documentation
 
-Rebuilt documentation portal. This replaces the inherited product presentation; it is not a FluxGate software release.
+FluxGate documentation portal: installation, Spring integration, operations and version-specific upgrades. A documentation publication is not a FluxGate software release.
+
+- [Documentation](https://openfluxgate.github.io/)
+- [Published Redis 0.3.8 upgrade](https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.3.8)
+- [Prompt-assisted setup guide](https://openfluxgate.github.io/docs/quickstart/) (available after this branch is published)
+
+## Technical note animation
+
+The index includes the owner-provided Redis Lua explainer as an optimized GIF with a static poster. Animation starts only after an explicit play action and can be stopped. A text explanation is provided alongside it. The embedded 50K TPS / p99 233μs values are not revalidated in this documentation change and are not current-release performance guarantees.
+
+Use `portal/assets/fluxgate-paper.gif` only together with that caveat and the static/reduced-motion alternative. Do not embed an auto-playing GIF in this README: GitHub cannot provide the same page-level playback controls.
 
 ## Develop
 
@@ -26,3 +36,4 @@ Source versions, published artifacts and production deployments are distinct. Th
 ## Attribution
 
 This repository began from Dyte documentation. Its Apache-2.0 LICENSE, including original attribution, is preserved unchanged. Existing legacy contributions are retained, not presented as FluxGate functionality. New portal files are the OpenFluxGate documentation rebuild. See `PORTAL-MIGRATION.md`.
+
