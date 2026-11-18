@@ -24,7 +24,7 @@ export const pages = [
 {
   title: '0.5.0 후보에서 서블릿 스타터 선택 및 필터 활성화',
   text: '후보의 대상 조합은 Boot 2.7.18·Java 11·javax.servlet(fluxgate-spring-boot2-starter)과 Boot 3.5.16·Java 17·jakarta.servlet(fluxgate-spring-boot3-starter)입니다. 앱에 맞는 스타터 하나와 같은 후보 빌드의 Core를 사용하세요.',
-  list: ['FluxgateRateLimitHandler 빈을 등록하고 설정 클래스에 @EnableFluxgateFilter를 추가하세요. fluxgate.ratelimit.default-rule-set-id에 시험용 정책 ID를 지정하세요. 서블릿 앱에서 활성화된 필터가 등록됩니다.', '대상 프로파일로 앱을 기동해 fluxgateRateLimitFilter 등록을 확인하세요. 필터 적용 경로에서 같은 시험 식별자로 요청해 허용 응답과 할당량 소진 후 HTTP 429를 기록하세요. 별도 실행에서 fluxgate.ratelimit.enabled=false로 바꿔 필터 등록이 사라지는지도 확인하세요.'],
+  list: ['FluxgateRateLimitHandler 빈을 등록하고 설정 클래스에 @EnableFluxgateFilter를 추가하세요. fluxgate.ratelimit.default-rule-set-id에 기존 규칙 세트의 ID(예: api-limits)를 지정하세요. 서블릿 앱에서 활성화된 필터가 등록됩니다.', '대상 프로파일로 앱을 기동해 fluxgateRateLimitFilter 등록을 확인하세요. HTTP 429를 확인하려면 해당 경로에 일치하는 규칙에 REJECT_REQUEST를 설정하고 기본 응답 작성기를 사용하세요. 같은 시험 식별자로 할당량이 소진될 때까지 요청해 허용·차단 응답을 기록하세요. WAIT_FOR_REFILL은 대기 후 요청을 허용할 수 있습니다. 별도 실행에서 fluxgate.ratelimit.enabled=false로 바꿔 필터 등록이 사라지는지도 확인하세요.'],
   links: [['후보 필터 샘플', 'https://github.com/OpenFluxGate/fluxgate/tree/6b1ad938ad76ab572125208cfc35b9aa2851c5b2/fluxgate-samples/fluxgate-sample-filter']]
 }
 ]},
