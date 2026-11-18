@@ -8,3 +8,6 @@ test('only explicit portal files are shipped',async()=>{const output=await files
 test('release caveats and migration warnings remain visible',()=>{const content=JSON.stringify(pages);for(const term of ['미출시','검증 중','0.3.7','ACL','TTL','자동 마이그레이션'])assert.ok(content.includes(term),term);});
 
 test('published upgrade recipe and security boundaries stay explicit',()=>{const start=pages.find(p=>p.slug==='start');const core=pages.find(p=>p.slug==='core');const text=JSON.stringify(start);assert.match(text,/fluxgate-redis-ratelimiter/);assert.match(text,/0\.3\.8/);assert.match(text,/0\.3\.7/);assert.match(text,/dependencyInsight/);assert.match(text,/dependency:tree/);const security=JSON.stringify(core);for(const term of ['CVE-2016-1000027','no-remoting','별도 선택지','보안 게이트'])assert.ok(security.includes(term),term);assert.ok(core.sections.flatMap(s=>s.links||[]).some(l=>l[1].includes('knowledge.broadcom.com')));});
+
+
+test('documentation-first home preserves version boundaries without motion runtime',async()=>{const home=await readFile(join(root,'index.html'),'utf8');assert.match(home,/<h1>FluxGate 문서<\/h1>/);assert.match(home,/Redis 0.3.8/);assert.match(home,/Core와 스타터는 0.3.7/);assert.match(home,/0.5.0은 미출시/);assert.match(home,/aria-label="문서 목록"/);assert.doesNotMatch(home,/<video|<iframe|REQUEST LIFECYCLE|트래픽은 흐르게/);});
