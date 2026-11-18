@@ -20,18 +20,35 @@ export const pages = [
 {"title":"다른 제품은 어떻게 대응했나요?","list":["Atlassian Bitbucket: 해당 클래스 미사용을 확인하고 Spring 포크에서 remoting 패키지를 제거했습니다. 그 패키지를 쓰는 플러그인은 수정이 필요하다고 안내했습니다.","WSO2: 공식 공지에 나열된 제품에 Spring 5.3.31~5.3.39의 수정 포크를 포함하고 취약 클래스를 제거했습니다. 원본 Spring 5.3.39의 무해성을 의미하지 않습니다.","IBM OpenPages: 사용하지 않는 문제 코드를 제거한 별도 spring-web JAR를 제품에 포함하고 업데이트를 권고했습니다. 원본 JAR의 버전명만 바꾼 해결책이 아닙니다."],"links":[["Atlassian 공식 릴리스 노트","https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-9-0-release-notes-1369277827.html"],["WSO2 공식 CVE 설명","https://security.docs.wso2.com/en/latest/security-announcements/cve-justifications/2025/CVE-2016-1000027/"],["IBM 공식 보안 공지","https://www.ibm.com/support/pages/security-bulletin-ibm-openpages-ibm-cloud-pak-data-vulnerable-spring-web-unsafe-deserialization-cve-2016-1000027-0"]]},
 {"title":"FluxGate가 벤더 포크를 자동으로 넣지 않는 이유","text":"완제품 벤더와 달리 FluxGate는 소비자 애플리케이션 전체의 Spring 의존성과 사용 기능을 통제하지 못합니다. 임의로 Spring을 교체하거나 클래스를 제거하면 다른 기능과 모듈 정합성, 지원 계약에 영향을 줄 수 있습니다. HeroDevs NES에는 HTTP Invoker를 제외하는 no-remoting classifier 선택지가 있지만 기본 JAR는 호환성을 위해 해당 기능을 유지합니다. 계약·비용·라이선스/재배포 권리, 전체 앱의 의존성 정합성과 기능 검증이 필요한 별도 선택지이며 FluxGate에 적용 또는 검증 완료한 구성은 아닙니다. Boot 2에 Spring 6만 강제로 덮어쓰는 방식도 안내하지 않습니다.","links":[["HeroDevs 공식: no-remoting 선택지","https://docs.herodevs.com/spring/additional-info/cve-2016-1000027"],["FluxGate 지원정책 검토","https://github.com/OpenFluxGate/fluxgate/pull/85"]]},
 {"title":"소비자 보안 검토 체크리스트","list":["실제 실행 앱의 Boot/Spring 버전·전체 전이 의존성과 활성 프로파일을 기록합니다.","HttpInvokerServiceExporter 계열 및 사용자 정의 Java 역직렬화 코드가 실제로 등록·노출되는지 확인합니다. Java/XML 설정, Servlet, 부모·자식 컨텍스트와 동적 등록도 포함합니다.","미사용 HTTP Invoker endpoint를 제거하고 신뢰할 수 없는 입력이 역직렬화 경로에 도달하지 않도록 합니다. 인증이나 사내망만으로 안전을 단정하지 않습니다.","새 의존성이나 설정 변경 뒤 기능·기동·보안 검사를 다시 실행합니다. 한 CVE의 노출 검토는 다른 취약점까지 해결했다는 뜻이 아닙니다.","검토 책임자·근거·잔여 위험·재검토일을 남깁니다. 문서화나 제한된 테스트 통과는 보안 게이트 통과 또는 배포 승인이 아닙니다."]},
-{title:'정책 재적용은 reset과 다릅니다',text:'검증에 사용한 0.5.0 개발 소스에서는 같은 정책을 재구성해도 소진된 Redis 카운터가 유지됐습니다. 명시적 reset은 별도 동작입니다. 이 결과를 모든 릴리스·HTTP/PubSub 경로의 보장으로 확대하지 마세요.',links:[['검증 범위와 업그레이드','/docs/upgrade/']]}
+{title:'정책 재적용은 reset과 다릅니다',text:'검증에 사용한 0.5.0 개발 소스에서는 같은 정책을 재구성해도 소진된 Redis 카운터가 유지됐습니다. 명시적 reset은 별도 동작입니다. 이 결과를 모든 릴리스·HTTP/PubSub 경로의 보장으로 확대하지 마세요.',links:[['검증 범위와 업그레이드','/docs/upgrade/']]},
+{
+  title: '0.5.0 후보에서 서블릿 스타터 선택 및 필터 활성화',
+  text: '후보의 대상 조합은 Boot 2.7.18·Java 11·javax.servlet(fluxgate-spring-boot2-starter)과 Boot 3.5.16·Java 17·jakarta.servlet(fluxgate-spring-boot3-starter)입니다. 앱에 맞는 스타터 하나와 같은 후보 빌드의 Core를 사용하세요.',
+  list: ['FluxgateRateLimitHandler 빈을 등록하고 설정 클래스에 @EnableFluxgateFilter를 추가하세요. fluxgate.ratelimit.default-rule-set-id에 시험용 정책 ID를 지정하세요. 서블릿 앱에서 활성화된 필터가 등록됩니다.', '대상 프로파일로 앱을 기동해 fluxgateRateLimitFilter 등록을 확인하세요. 필터 적용 경로에서 같은 시험 식별자로 요청해 허용 응답과 할당량 소진 후 HTTP 429를 기록하세요. 별도 실행에서 fluxgate.ratelimit.enabled=false로 바꿔 필터 등록이 사라지는지도 확인하세요.'],
+  links: [['후보 필터 샘플', 'https://github.com/OpenFluxGate/fluxgate/tree/6b1ad938ad76ab572125208cfc35b9aa2851c5b2/fluxgate-samples/fluxgate-sample-filter']]
+}
 ]},
 {slug:'envoy',label:'Envoy',eyebrow:'AT THE EDGE',title:'프록시 경계에서도 같은 질문.',intro:'어떤 요청을 제한하고, 판정 서비스가 실패하면 무엇을 할지 먼저 결정합니다.',sections:[
 {title:'통합 전 확인할 계약',text:'요청 descriptor, domain, 식별자, 제한 응답, timeout과 fail-open/fail-closed 정책을 일치시키세요. Envoy 연동은 버전별 구현과 설정을 확인해야 하며, 이 포털은 검증하지 않은 배포용 YAML을 제공하지 않습니다.'},
 {title:'애플리케이션 제한과 중복 적용',text:'프록시와 애플리케이션이 동일 요청에 두 번 토큰을 소비하지 않는지 확인하세요. 의도한 계층별 제한이면 키와 정책 소유권을 구분하고, 각 계층의 거절 원인을 관측 가능하게 만드세요.'},
 {title:'배포 전 검증',text:'허용, 과다 요청, 판정 서버 timeout, Redis 단절, identity 누락을 별도 테스트합니다. 0.5.0 소스의 실제 통합 범위와 릴리스 노트를 확인한 후 고정된 버전으로 검증하세요.',links:[['Core 저장소에서 구현 확인','https://github.com/OpenFluxGate/fluxgate'],['운영 체크리스트','/docs/operations/']]}
 ]},
+{
+  slug:'mcp', label:'MCP 설계', eyebrow:'DESIGN PROPOSAL', title:'MCP 연동 설계 제안',
+  intro:'후속 버전을 위한 제안입니다. FluxGate 0.5.0에는 MCP 서버와 도구가 없습니다. 제안한 어댑터는 요청한 사용자의 권한으로 기존 Admin API를 호출합니다.',
+  sections:[
+    {title:'운영자가 조회할 수 있는 정보',list:['규칙 조회는 권한이 있는 테넌트의 목록과 ID별 상세를 제공합니다.', '이벤트 분석은 제한된 기간의 허용·차단 판정을 집계합니다. 기본 응답은 집계값이고 반환량과 타임아웃을 제한합니다.', '상태 조회는 마지막 관측 성공 시각과 데이터 출처를 표시합니다. 접근 거부, 데이터 부재, 백엔드 오류를 구분합니다.']},
+    {title:'정책 변경 제안과 승인',text:'별도 제안 권한을 가진 사용자는 특정 규칙 리비전을 기준으로 변경안을 작성합니다. Studio 승인 화면에 테넌트, 대상, 정확한 변경 내역과 만료 시각을 표시합니다. Admin API는 승인자 신원, 변경 권한과 현재 리비전을 다시 검사한 뒤 승인된 변경을 한 번 적용합니다. 대상이나 리비전이 바뀌면 다시 승인받습니다.'},
+    {title:'인가 및 데이터 처리',list:['사용자를 인증하고 커서 페이지를 포함한 모든 호출에 서버에서 테넌트와 권한을 결속합니다. 조회·제안·적용 권한을 분리하고 기존 Admin API 인가를 재사용합니다. 어댑터의 DB 직접 접근은 제외합니다.', '허용 목록의 필드만 반환하고 IP·사용자 식별자·토큰을 가립니다. 규칙명·설명·이벤트 텍스트는 신뢰할 수 없는 데이터로 취급합니다. 여기에 포함된 지시로 권한·테넌트를 바꾸거나 도구 호출을 승인할 수 없습니다.', '요청자, 테넌트, 도구, 대상 리비전, 승인자와 결과를 감사 기록에 남깁니다. 자격증명과 이벤트 원문은 기록에서 제외합니다.']},
+    {title:'구현 전에 필요한 검증',text:'먼저 API 인가와 테넌트 격리 범위를 검토합니다. 교차 테넌트 접근, 만료·재사용된 승인, 동시 수정, 비식별 처리, 도구 결과에 포함된 악성 지시를 시험 항목으로 정의합니다. 설계 승인과 구현 검토를 거쳐 후속 버전의 출시 여부를 결정합니다.'}
+  ]
+},
 {slug:'studio',label:'Studio',eyebrow:'CONTROL PLANE',title:'정책을 보고, 변경을 이해하세요.',intro:'Studio는 규칙 관리와 관찰을 위한 UI/API입니다. 관리 화면의 성공과 데이터 경로의 성공은 따로 확인해야 합니다.',sections:[
 {title:'UI · API · Core 버전을 함께 기록',text:'Studio UI/API의 0.5.0 버전 정렬은 Core 아티팩트 발행이나 운영 배포 완료를 의미하지 않습니다. UI의 API 주소, API의 DB/Redis 대상, Core 라이브러리 버전을 환경별로 기록하세요.',links:[['Studio 저장소','https://github.com/OpenFluxGate/fluxgate-studio']]},
 {title:'Audit TTL은 보존정책입니다',text:'검토된 0.5.0 개발 변경에서는 audit 인덱스 자동 생성이 opt-in입니다. STUDIO_AUDIT_CREATE_INDEXES=false는 기존 TTL 인덱스를 제거하거나 만료 삭제를 중단하지 않습니다. 기존 expireAfterSeconds와 데이터 보존 승인을 먼저 확인하세요.'},
 {title:'정책 편집 시 확인',text:'빈 attributes 편집, tags 빈 배열, ACL 필드, ruleSetId와 id 조합을 포함하여 저장 전후 데이터를 비교하세요. 구버전 writer와 공유 DB를 쓰면 새 필드가 사라질 수 있습니다. UI 성공 알림만으로 호환성을 판단하지 마세요.',links:[['업그레이드 위험','/docs/upgrade/']]},
-{title:'관리 인터페이스 보호',text:'Studio를 인터넷에 그대로 노출하지 마세요. 인증·접근제어·TLS·비밀값 관리 및 감사 로그 접근 정책은 실제 배포 환경에서 별도로 검증해야 합니다. 이 문서는 보안 인증을 제공하지 않습니다.'}
+{title:'관리 인터페이스 보호',text:'Studio를 인터넷에 그대로 노출하지 마세요. 인증·접근제어·TLS·비밀값 관리 및 감사 로그 접근 정책은 실제 배포 환경에서 별도로 검증해야 합니다. 이 문서는 보안 인증을 제공하지 않습니다.'},
+{title:'향후 MCP 연동',links:[['설계 제안 읽기','/docs/mcp/']]}
 ]},
 {slug:'operations',label:'운영',eyebrow:'OPERATE DELIBERATELY',title:'실패할 때의 동작까지 설계.',intro:'정상 응답보다 장애 경로와 복구 절차가 운영 품질을 결정합니다.',sections:[
 {title:'장애 모드를 명시',text:'Redis 지연·연결 실패, MongoDB 조회 실패, 정책 누락, 관리 API 장애를 각각 테스트하세요. fail-open은 가용성, fail-closed는 접근 제한에 영향을 줍니다. 어느 쪽도 모든 서비스의 정답은 아닙니다.'},
